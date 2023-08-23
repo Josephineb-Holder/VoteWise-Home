@@ -135,11 +135,16 @@ const DATA = [
 ];
 
 const Item = ({ name, party, image }) => (
-  <View style={styles.item}>
+  <View style={styles.item} >
+    <View>
     <Image style={styles.image} source={image} />
 
-    <Text style={styles.title}>{name}</Text>
-    <Text style={styles.party}>{party}</Text>
+    </View >
+     <View style={styles.itemTwo}> 
+      <Text style={styles.title}>{name}</Text>
+  <Text style={styles.party}>{party}</Text>
+  </View>
+
   </View>
 );
 
@@ -163,15 +168,23 @@ const styles = StyleSheet.create({
     marginTop: StatusBar.currentHeight || 0,
   },
   item: {
+    display: 'flex',
+    flexDirection: 'row',
     backgroundColor: "#002368",
     padding: 20,
     marginVertical: 8,
     marginHorizontal: 16,
-    shadow: 3,
+   
+  },
+
+  itemTwo:{
+  marginLeft: 10,
+
   },
   title: {
-    color: "white",
-    fontSize: 32,
+    fontSize: 15,
+  color: "white",
+
   },
 
   image: {
@@ -183,6 +196,7 @@ const styles = StyleSheet.create({
 
   party: {
     color: "white",
+    fontSize: 11,
   },
 });
 
