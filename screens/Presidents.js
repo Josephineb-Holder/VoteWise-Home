@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
   },
   title: {
     color: "white",
-    fontSize: 32,
+    fontSize: 25,
   },
 
   image: {
