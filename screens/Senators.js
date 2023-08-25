@@ -1,63 +1,124 @@
 import React, { useState } from "react";
-import { StyleSheet, TouchableOpacity, Alert, View, Text } from "react-native";
+import { StyleSheet, TouchableOpacity, View, Text } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 
-const DATA = [
-  { county: "Montserrado" },
-  { county: "Grand Kru" },
-  { county: "Sinoe" },
-  { county: "Grand Gedeh" },
-  { county: "Maryland" },
-  { county: "Grand Bassa" },
-  { county: "Bomi" },
-  { county: "Bong" },
-  { county: "Margibi" },
-  { county: "Lofa" },
-  { county: "Gborpolu" },
-  { county: "Grand Cape Mount" },
-  { county: "River Cess" },
-  { county: "River Gee" },
-];
+// const DATA = [
+//   { county: "Montserrado" },
+//   { county: "Grand Kru" },
+//   // { county: "Sinoe" },
+//   // { county: "Grand Gedeh" },
+//   // { county: "Maryland" },
+//   // { county: "Grand Bassa" },
+//   // { county: "Bomi" },
+//   // { county: "Bong" },
+//   // { county: "Margibi" },
+//   // { county: "Lofa" },
+//   // { county: "Gborpolu" },
+//   // { county: "Grand Cape Mount" },
+//   // { county: "River Cess" },
+//   // { county: "River Gee" },
+// ];
 
-const Item = ({ county }) => {
-  return (
-    <View>
-      <Text>{county}</Text>
-    </View>
-  );
-};
+// const Item = ({ county }) => {
+//   return (
+//     <View>
+//       <Text>{county}</Text>
+//     </View>
+//   );
+// };
 
-function Senators({ navigation }) {
-  const [menuOpen, setMenuOpen] = useState(false);
-  function toggleMenu() {
-    setMenuOpen(!menuOpen);
+// function Senators({ navigation }) {
+//   const [menuOpen, setMenuOpen] = useState(false);
+//   const [selectedCounty,setSelectedCounty] =useState(' ')
+
+//   function toggleMenu() {
+//     setMenuOpen(!menuOpen);
+//   }
+
+//   const selectCounty =(county)=>{
+//     setSelectedCounty(county)
+//     // toggleMenu
+//   }
+
+//   return (
+//     <>
+//       <View style={styles.container}>
+//         <TouchableOpacity style={styles.hamburgerIcon}>
+//           <Ionicons
+//             onPress={toggleMenu}
+//             name={menuOpen ? "close" : "menu"}
+//             size={30}
+//             color="#002368"
+//           />
+//         </TouchableOpacity>
+//         <TouchableOpacity>
+//         <Text style={styles.headerText}>{'select a county'}</Text>
+
+//         </TouchableOpacity>
+//       </View>
+//       {menuOpen && (
+//         <View style={styles.dropDown}>
+//           {DATA.map((item, index) => (
+//             <TouchableOpacity key={index} onPress={()=>selectCounty(index)}>
+//               <Item county={item.county} />
+//             </TouchableOpacity>
+//           ))}
+//         </View>
+//       )}
+
+//       {selectedCounty !== ' ' && (
+//         <Text>You Have Selected :{selectedCounty}</Text>
+//       )}
+//     </>
+//   );
+// }
+
+const  SelectCounty = ()=> {
+  const [showArrow, setShowArrow]= useState(false)
+  const [selectedCounty, setSelectedCounty] =useState('')
+
+  const counties = ["bomi", "bong"];
+
+  const toggleDropDown = ()=>{
+    setShowArrow(!showArrow)
   }
 
-  return (
-    <>
-      <View style={styles.container}>
-        <TouchableOpacity style={styles.hamburgerIcon}>
-          <Ionicons
-            onPress={toggleMenu}
-            name={menuOpen ? "close" : "menu"}
-            size={30}
-            color="#002368"
-          />
-        </TouchableOpacity>
-        <Text style={styles.headerText}>Senators Screen</Text>
-      </View>
-      {menuOpen && (
-        <View style={styles.dropDown}>
-          {DATA.map((item, index) => (
-            <TouchableOpacity key={index}>
-              <Item county={item.county} />
-            </TouchableOpacity>
-          ))}
-        </View>
-      )}
-    </>
-  );
+  const selectCounty = (county) => {
+  setSelectedCounty(county)
+  toggleDropDown()
 }
+
+return(
+  <View>
+  <TouchableOpacity onPress={toggleDropDown} style={styles.dropDown}>
+  <Text style={styles.headerText}>{selectedCounty || 'select a county'}</Text>
+  <Text style={styles.hamburgerIcon}>{showArrow? "up" : "down"}</Text>
+  </TouchableOpacity>
+
+  { showArrow && (
+    <View>
+    {counties.map((ele) => (
+    <TouchableOpacity key={ele} onPress={() => selectCounty(ele)}>
+     <Text>{ele}</Text>
+    </TouchableOpacity>
+    ))}
+</View>
+
+  )}
+ 
+ 
+{selectedCounty !== '' && (
+  <Text> You Have selected : {selectedCounty}</Text>
+)}
+ </View>
+
+)
+
+}
+  
+ 
+  
+
 
 const styles = StyleSheet.create({
   container: {
@@ -68,7 +129,7 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
   },
   hamburgerIcon: {
-    padding: 10,
+    marginHorizontal: 20
   },
   headerText: {
     fontSize: 18,
@@ -78,7 +139,9 @@ const styles = StyleSheet.create({
   dropDown: {
     backgroundColor: "white",
     paddingLeft: 70,
+    display:'flex',
+    flexDirection:"row"
   },
 });
 
-export default Senators;
+export default SelectCounty;
