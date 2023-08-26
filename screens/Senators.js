@@ -73,52 +73,46 @@ import { Ionicons } from "@expo/vector-icons";
 //   );
 // }
 
-const  SelectCounty = ()=> {
-  const [showArrow, setShowArrow]= useState(false)
-  const [selectedCounty, setSelectedCounty] =useState('')
+const SelectCounty = () => {
+  const [showArrow, setShowArrow] = useState(false);
+  const [selectedCounty, setSelectedCounty] = useState("");
 
   const counties = ["bomi", "bong"];
 
-  const toggleDropDown = ()=>{
-    setShowArrow(!showArrow)
-  }
+  const toggleDropDown = () => {
+    setShowArrow(!showArrow);
+  };
 
   const selectCounty = (county) => {
-  setSelectedCounty(county)
-  toggleDropDown()
-}
+    setSelectedCounty(county);
+    toggleDropDown();
+  };
 
-return(
-  <View>
-  <TouchableOpacity onPress={toggleDropDown} style={styles.dropDown}>
-  <Text style={styles.headerText}>{selectedCounty || 'select a county'}</Text>
-  <Text style={styles.hamburgerIcon}>{showArrow? "up" : "down"}</Text>
-  </TouchableOpacity>
-
-  { showArrow && (
+  return (
     <View>
-    {counties.map((ele) => (
-    <TouchableOpacity key={ele} onPress={() => selectCounty(ele)}>
-     <Text>{ele}</Text>
-    </TouchableOpacity>
-    ))}
-</View>
+      <TouchableOpacity onPress={toggleDropDown} style={styles.dropDown}>
+        <Text style={styles.headerText}>
+          {selectedCounty || "select a county"}
+        </Text>
+        <Text style={styles.hamburgerIcon}>{showArrow ? "up" : "down"}</Text>
+      </TouchableOpacity>
 
-  )}
- 
- 
-{selectedCounty !== '' && (
-  <Text> You Have selected : {selectedCounty}</Text>
-)}
- </View>
+      {showArrow && (
+        <View>
+          {counties.map((ele) => (
+            <TouchableOpacity key={ele} onPress={() => selectCounty(ele)}>
+              <Text>{ele}</Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
 
-)
-
-}
-  
- 
-  
-
+      {selectedCounty !== "" && (
+        <Text> You Have selected : {selectedCounty}</Text>
+      )}
+    </View>
+  );
+};
 
 const styles = StyleSheet.create({
   container: {
@@ -129,7 +123,7 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
   },
   hamburgerIcon: {
-    marginHorizontal: 20
+    marginHorizontal: 20,
   },
   headerText: {
     fontSize: 18,
@@ -139,8 +133,8 @@ const styles = StyleSheet.create({
   dropDown: {
     backgroundColor: "white",
     paddingLeft: 70,
-    display:'flex',
-    flexDirection:"row"
+    display: "flex",
+    flexDirection: "row",
   },
 });
 
