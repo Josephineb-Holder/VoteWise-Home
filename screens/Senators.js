@@ -1,6 +1,13 @@
 import React, { useState } from "react";
-import { StyleSheet, TouchableOpacity, View, Text } from "react-native";
-import { Ionicons } from "@expo/vector-icons";
+import {
+  StyleSheet,
+  TouchableOpacity,
+  View,
+  Text,
+  FlatList,
+} from "react-native";
+import { senators } from "./data/SenatorJson";
+// import { Ionicons } from "@expo/vector-icons";
 
 // const DATA = [
 //   { county: "Montserrado" },
@@ -77,7 +84,24 @@ const SelectCounty = () => {
   const [showArrow, setShowArrow] = useState(false);
   const [selectedCounty, setSelectedCounty] = useState("");
 
-  const counties = ["bomi", "bong"];
+  const countyDrop = senators;
+  console.log(countyDrop.grandKru);
+
+  const counties = [
+    "Bomi",
+    "Bong",
+    "Margibi",
+    "GrandKru",
+    "Cape Mount",
+    "Gborpolu",
+    "Sinoe",
+    "Montserrado",
+    "Grand Gedeh",
+    "Grand Bassa",
+    "MaryLand",
+    "River Cess",
+    "River Gee",
+  ];
 
   const toggleDropDown = () => {
     setShowArrow(!showArrow);
@@ -92,23 +116,38 @@ const SelectCounty = () => {
     <View>
       <TouchableOpacity onPress={toggleDropDown} style={styles.dropDown}>
         <Text style={styles.headerText}>
-          {selectedCounty || "select a county"}
+          {selectedCounty || "Select a county"}
         </Text>
-        <Text style={styles.hamburgerIcon}>{showArrow ? "up" : "down"}</Text>
+        <Text style={styles.hamburgerIcon}>{showArrow ? "▲" : "▼"}</Text>
       </TouchableOpacity>
 
       {showArrow && (
         <View>
           {counties.map((ele) => (
             <TouchableOpacity key={ele} onPress={() => selectCounty(ele)}>
-              <Text>{ele}</Text>
+              <Text style={styles.dropCounties}>{ele}</Text>
             </TouchableOpacity>
           ))}
         </View>
       )}
 
       {selectedCounty !== "" && (
-        <Text> You Have selected : {selectedCounty}</Text>
+        <View>
+          <Text> You Have selected : {selectedCounty}</Text>
+        </View>
+      )}
+
+      {selectedCounty === "GrandKru" && (
+        <View>
+          <Text>{JSON.stringify(countyDrop.grandKru)}</Text>
+          {/* <Text>Nyepan Bropleh</Text>
+
+          <Text>Nyepan Bropleh</Text>
+
+          <Text>Nyepan Bropleh</Text>
+
+          <Text>Nyepan Bropleh</Text> */}
+        </View>
       )}
     </View>
   );
@@ -124,17 +163,26 @@ const styles = StyleSheet.create({
   },
   hamburgerIcon: {
     marginHorizontal: 20,
+    marginTop: 20,
+    color: "#002368",
   },
   headerText: {
     fontSize: 18,
     color: "#002368",
     fontWeight: "bold",
+    marginTop: 15,
   },
   dropDown: {
+    height: 60,
     backgroundColor: "white",
     paddingLeft: 70,
     display: "flex",
     flexDirection: "row",
+  },
+
+  dropCounties: {
+    backgroundColor: "white",
+    paddingLeft: 70,
   },
 });
 
