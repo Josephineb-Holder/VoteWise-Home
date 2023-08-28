@@ -1,8 +1,8 @@
 export const senators = {
-  bomi: [
+  Bomi: [
     {
       aspirant: "Soko Adama Dorley",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Dorley-Soko-Adama-Bomi.jpg",
       number: "CN-000003",
       type: "Independent",
       party: "Independent Candidate",
@@ -11,7 +11,7 @@ export const senators = {
     },
     {
       aspirant: "Murphy M. Gibson",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Gibson-Murphy-M.-BOMI-e1689950084879.jpg",
       number: "CN-000604",
       type: "Party",
       party: "Movement for One Liberia",
@@ -20,7 +20,7 @@ export const senators = {
     },
     {
       aspirant: "Duannah A. Kamara",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Kamara-Duannah-A.-Bomi-e1689950197457.jpg",
       number: "CN-000624",
       type: "Independent",
       party: "Independent Candidate",
@@ -29,7 +29,7 @@ export const senators = {
     },
     {
       aspirant: "Morris G. Saytumah",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Saytumah-Morris-G-Bomi.jpeg",
       number: "CN-000304",
       type: "Independent",
       party: "Independent Candidate",
@@ -38,7 +38,7 @@ export const senators = {
     },
     {
       aspirant: "Jenekai Alex Tyler, Sr",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Tyler-Sr.-Jenekai-Alex-Bomi-e1689950146795.jpg",
       number: "CN-000008",
       type: "Independent",
       party: "Independent Candidate",
@@ -46,10 +46,10 @@ export const senators = {
       county: "Bomi",
     },
   ],
-  bong: [
+  Bong: [
     {
       aspirant: "Amos D.S. Barbu, Jr",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Barbu-Jr.-Amos-D.S.-Bong.jpg",
       number: "CN-000068",
       type: "Party",
       party: "All Liberia Coalition Party",
@@ -58,7 +58,7 @@ export const senators = {
     },
     {
       aspirant: "Pinky Suawah ABemah",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Bemah-Pinky-Suawah-Bong.jpg",
       number: "CN-000117",
       type: "Party",
       party: "Liberia Restoration Party",
@@ -67,7 +67,7 @@ export const senators = {
     },
     {
       aspirant: "Mogana Szorkpor Flomo",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Flomo-Mogana-Szorkpor-Bong.jpg",
       number: "CN-000956",
       type: "Party",
       party: "National Development Party",
@@ -76,7 +76,7 @@ export const senators = {
     },
     {
       aspirant: "Ranney B. Jackson",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Jackson-Ranney-B.-Bong.jpg",
       number: "CN-000861",
       type: "Party",
       party: "Rainbow Alliance",
@@ -85,7 +85,7 @@ export const senators = {
     },
     {
       aspirant: "Edward W. Karfiah",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Karfiah-Edward-W.-Bong-e1689953150934.jpg",
       number: "CN-000287",
       type: "Party",
       party: "People’s Unification Party",
@@ -94,7 +94,7 @@ export const senators = {
     },
     {
       aspirant: "Johnny K. Kpehe",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Kpehe-Johnny-K.-Bong.jpg",
       number: "CN-000231",
       type: "Independent",
       party: "Independent Candidate",
@@ -103,7 +103,7 @@ export const senators = {
     },
     {
       aspirant: "Mohammed A. Nasser",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Nasser-Mohammed-A.-Bong.jpg",
       number: "CN-000013",
       type: "Party",
       party: "All Liberian Party",
@@ -112,7 +112,7 @@ export const senators = {
     },
     {
       aspirant: "Bright Fahnlon Sackie",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Sackie-Bright-Fahnlon-Bong-e1689953213698.jpg",
       number: "CN-000330",
       type: "Party",
       party: "Liberia Transformation Party",
@@ -121,7 +121,7 @@ export const senators = {
     },
     {
       aspirant: "Henrique F. Tokpa",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Tokpa-Henrique-F.-Bong.jpg",
       number: "CN-000171",
       type: "Party",
       party: "Unity Party",
@@ -130,7 +130,7 @@ export const senators = {
     },
     {
       aspirant: "J. Alexander Zogbaye",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Zogbaye-J.-Alexander-Bong.jpg",
       number: "CN-000639",
       type: "Party",
       party: "Greater Action Party Of Liberia",
@@ -138,10 +138,10 @@ export const senators = {
       county: "Bong",
     },
   ],
-  gbarpolu: [
+  Gbarpolu: [
     {
       aspirant: "John K. Benda, Sr",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Gbarpolu_County.svg_.png",
       number: "CN-000082",
       type: "Party",
       party: "Liberia Restoration Party",
@@ -150,7 +150,7 @@ export const senators = {
     },
     {
       aspirant: "Fatuma Z. Browne",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Browne-Fatuma-Z-Gbarpolu.jpg",
       number: "CN-000205",
       type: "Party",
       party: "Movement for One Liberia",
@@ -159,7 +159,7 @@ export const senators = {
     },
     {
       aspirant: "Mohammed A. Dukuly",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Dukuly-Mohammed-Gbarpolu.jpg",
       number: "CN-000456",
       type: "Party",
       party: "Liberian’s People’s Party",
@@ -168,7 +168,7 @@ export const senators = {
     },
     {
       aspirant: "Allen M. Gbowee",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Gbarpolu_County.svg_.png",
       number: "CN-000061",
       type: "Party",
       party: "Movement for Progressive Change",
@@ -177,7 +177,7 @@ export const senators = {
     },
     {
       aspirant: "Paul K. Kennedy",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Kennedy-Paul-K.-Gbarpolu.png",
       number: "CN-000127",
       type: "Party",
       party: "Liberian National Union",
@@ -186,7 +186,7 @@ export const senators = {
     },
     {
       aspirant: "Alfred G. Koiwood",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Koiwood-Alfred-G.-Gbarpolu.png",
       number: "CN-000501",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -195,7 +195,7 @@ export const senators = {
     },
     {
       aspirant: "Amara Mohammed Konneh",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Konneh-Amara-Mohammed-Gbarpolu.jpg",
       number: "CN-000706",
       type: "Independent",
       party: "Independent Candidate",
@@ -204,7 +204,7 @@ export const senators = {
     },
     {
       aspirant: "Daniel F. Naatehn, Sr",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Naatehn-Sr.-Daniel-F.-Gbarpolu.jpg",
       number: "CN-000305",
       type: "Party",
       party: "Collaborating Political Parties",
@@ -213,7 +213,7 @@ export const senators = {
     },
     {
       aspirant: "Cole Sumo Payne",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Payne-Cole-Sumo-Gbarpolu.jpg",
       number: "CN-000824",
       type: "Party",
       party: "National Democratic Coalition",
@@ -221,10 +221,10 @@ export const senators = {
       county: "Gbarpolu",
     },
   ],
-  grandBassa: [
+  GrandBassa: [
     {
       aspirant: "Janjay Baikpeh",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Baikpeh-Janjay-Grand-Bassa-e1690036406597.jpg",
       number: "CN-000376",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -233,7 +233,7 @@ export const senators = {
     },
     {
       aspirant: "Gbehzohngar M. Findley",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Findley-Gbehzohngar-M.-grand-Bassa-e1690036440344.jpg",
       number: "CN-000361",
       type: "Independent",
       party: "Independent Candidate",
@@ -242,7 +242,7 @@ export const senators = {
     },
     {
       aspirant: "Magdalene G. Harris",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Harris-Magdalene-G.-Grand-Bassa.jpg",
       number: "CN-000673",
       type: "Independent",
       party: "Independent Candidate",
@@ -251,7 +251,7 @@ export const senators = {
     },
     {
       aspirant: "Jonathan L. Kaipay",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Kaipay-Jonathan-L.-Grand-Bassa-e1690036488460.jpg",
       number: "CN-000296",
       type: "Independent",
       party: "Independent Candidate",
@@ -260,7 +260,7 @@ export const senators = {
     },
     {
       aspirant: "Jeremy G. Russell",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Grand_Bassa_County.svg_.png",
       number: "CN-000863",
       type: "Party",
       party: "All Liberian Party",
@@ -268,10 +268,10 @@ export const senators = {
       county: "Grand Bassa",
     },
   ],
-  grandCapeMount: [
+  GrandCapeMount: [
     {
       aspirant: "Gayah W. Fahnbulleh",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Fahnbulleh-Daogogoe-H.-Cape-Mount.jpg",
       number: "CN-000860",
       type: "Independent",
       party: "Independent Candidate",
@@ -280,7 +280,7 @@ export const senators = {
     },
     {
       aspirant: "Daogogoe H. Fahnbulleh",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Grand_Cape_Mount_County.svg_.png",
       number: "CN-000726",
       type: "Party",
       party: "People’s Unification Party",
@@ -289,7 +289,7 @@ export const senators = {
     },
     {
       aspirant: "Hanson S. Kiazolu",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Kiazolu-Hanson-S.-Cape-Mount-e1690039699300.jpg",
       number: "CN-000587",
       type: "Party",
       party: "United Independent Democrats Party",
@@ -298,7 +298,7 @@ export const senators = {
     },
     {
       aspirant: "Lyndon G. Mabande",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Grand_Cape_Mount_County.svg_.png",
       number: "CN-000206",
       type: "Party",
       party: "Liberian’s People’s Party",
@@ -307,7 +307,7 @@ export const senators = {
     },
     {
       aspirant: "Morris Salia Nyei",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Grand_Cape_Mount_County.svg_.png",
       number: "CN-000787",
       type: "Party",
       party: "All Liberia Coalition Party",
@@ -316,7 +316,7 @@ export const senators = {
     },
     {
       aspirant: "Varney G. Sherman",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/SHERMAN-VARNEY-G.-Cape-Mount.jpg",
       number: "CN-000153",
       type: "Independent",
       party: "Independent Candidate",
@@ -325,7 +325,7 @@ export const senators = {
     },
     {
       aspirant: "Mambu M. Sonii",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Sonii-Mambu-M.-Cape-Mount.jpg",
       number: "CN-000530",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -334,7 +334,7 @@ export const senators = {
     },
     {
       aspirant: "Dabah M. Varpilah",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Varpilah-Dabah-M-Cape-Mount.jpg",
       number: "CN-000183",
       type: "Party",
       party: "Unity Party",
@@ -343,7 +343,7 @@ export const senators = {
     },
     {
       aspirant: "Victor Varney Watson",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Watson-Victor-Varney-Cape-Mount.jpg",
       number: "CN-000586",
       type: "Independent",
       party: "Independent Candidate",
@@ -352,7 +352,7 @@ export const senators = {
     },
     {
       aspirant: "Sando Wayne",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Wayne-Sando-Cape-Mount.jpg",
       number: "CN-000751",
       type: "Party",
       party: "Economic Freedom Fighters Of Liberia",
@@ -361,7 +361,7 @@ export const senators = {
     },
     {
       aspirant: "Edwin G.K. Zoedua",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Zoedua-Edwin-G.K.-Cape-Mount.jpg",
       number: "CN-001020",
       type: "Party",
       party: "Movement for Progressive Change",
@@ -369,10 +369,10 @@ export const senators = {
       county: "Grand Cape Mount",
     },
   ],
-  grandGedeh: [
+  GrandGedeh: [
     {
       aspirant: "Cyrus S. Cooper, II",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Cooper-II-Cyrus-S.-Grad-Gedeh.jpg",
       number: "CN-000953",
       type: "Party",
       party: "Collaborating Political Parties",
@@ -381,7 +381,7 @@ export const senators = {
     },
     {
       aspirant: "A Marshall Dennis",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Dennis-A-Marshall-Grand-Gedeh-e1690041133582.jpg",
       number: "CN-000407",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -390,7 +390,7 @@ export const senators = {
     },
     {
       aspirant: "William Y. Glay",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Grand_Gedeh_County.svg_.png",
       number: "CN-000916",
       type: "Party",
       party: "Liberian National Union",
@@ -399,7 +399,7 @@ export const senators = {
     },
     {
       aspirant: "Alex Chersia Grant",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/GRANT-ALEX-CHERSIA-Grand-Gedeh.jpg",
       number: "CN-000565",
       type: "Party",
       party: "Unity Party",
@@ -408,7 +408,7 @@ export const senators = {
     },
     {
       aspirant: "Thomas Yaya Nimely",
-      photo: "",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/NIMELY-THOMAS-YAYA-Grand-Gedeh.jpg",
       number: "CN-000118",
       type: "Party",
       party: "Liberia Restoration Party",
@@ -416,10 +416,10 @@ export const senators = {
       county: "Grand Gedeh",
     },
   ],
-  grandKru: [
+  GrandKru: [
     {
-      aspirant: "Albert Tubge Chie",
-      photo: "",
+      aspirant: "ALBERT TUBGE CHIE",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Chie-Albert-Tubge-Grand-Kru.jpg",
       number: "CN-000256",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -427,8 +427,8 @@ export const senators = {
       county: "Grand Kru",
     },
     {
-      aspirant: "Vincent Toe Doe",
-      photo: "",
+      aspirant: "VINCENT TOE DOE",
+      photo: "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Grand_Kru_County.svg_.png",
       number: "CN-000494",
       type: "Party",
       party: "Collaborating Political Parties",
@@ -436,10 +436,10 @@ export const senators = {
       county: "Grand Kru",
     },
   ],
-  lofa: [
+  Lofa: [
     {
       aspirant: "Momo T. Cyrus",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Cyrus-Momo-T.-Lofa.jpg",
       number: "CN-000903",
       type: "Independent",
       party: "Independent Candidate",
@@ -448,7 +448,7 @@ export const senators = {
     },
     {
       aspirant: "Mohamed O. Kamara",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Lofa_County.svg_.png",
       number: "CN-000116",
       type: "Party",
       party: "All Liberia Coalition Party",
@@ -457,7 +457,7 @@ export const senators = {
     },
     {
       aspirant: "Moses Y. Kollie",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/KOLLIE-MOSES-Y-Lofa.jpg",
       number: "CN-000195",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -466,7 +466,7 @@ export const senators = {
     },
     {
       aspirant: "Galakpai W. Kortimai",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Kortimai-Galakpai-W.-Lofa.jpg",
       number: "CN-000660",
       type: "Independent",
       party: "Independent Candidate",
@@ -475,7 +475,7 @@ export const senators = {
     },
     {
       aspirant: "Joseph T. Machulay, Sr",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Lofa_County.svg_.png",
       number: "CN-000653",
       type: "Party",
       party: "Democratic National Allegiance",
@@ -484,7 +484,7 @@ export const senators = {
     },
     {
       aspirant: "Mohamed M.J. Manssalay",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Machulay-Sr.-Joseph-T.-Lofa-e1690323726994.jpg",
       number: "CN-000915",
       type: "Party",
       party: "All Liberian Solidarity Party",
@@ -493,7 +493,7 @@ export const senators = {
     },
     {
       aspirant: "Stephen J.H. Zargo",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Zargo-Stephen-J.H.-Lofa-e1690323760558.jpg",
       number: "CN-000327",
       type: "Party",
       party: "Unity Party",
@@ -501,10 +501,10 @@ export const senators = {
       county: "Lofa",
     },
   ],
-  margibi: [
+  Margibi: [
     {
       aspirant: "Rev. Emmanuel J. Giddings",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Giddings-Rev.-Emmanuel-J-Margibi.jpeg",
       number: "CN-000341",
       type: "Independent",
       party: "Independent Candidate",
@@ -513,7 +513,7 @@ export const senators = {
     },
     {
       aspirant: "Emmanuel D. Gonquoi",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Gonquoi-Emmanuel-D.-Margibi.jpg",
       number: "CN-000876",
       type: "Party",
       party: "Economic Freedom Fighters Of Liberia",
@@ -522,7 +522,7 @@ export const senators = {
     },
     {
       aspirant: "Clarice Alpha Jah",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Jah-Clarice-Alpha-Margibi.jpeg",
       number: "CN-000270",
       type: "Party",
       party: "Collaborating Political Parties",
@@ -531,7 +531,7 @@ export const senators = {
     },
     {
       aspirant: "Nathaniel F. McGill",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/McGill-Nathaniel-F.-Margibi-e1690324906854.png",
       number: "CN-000155",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -540,7 +540,7 @@ export const senators = {
     },
     {
       aspirant: "Vandalark R.F. Patricks",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Patricks-Vandalark-R.F.-Margibi.jpg",
       number: "CN-000490",
       type: "Party",
       party: "Liberian’s People’s Party",
@@ -549,7 +549,7 @@ export const senators = {
     },
     {
       aspirant: "Joshua V. Robinson",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Margibi_County.svg_.png",
       number: "CN-000570",
       type: "Independent",
       party: "Independent Candidate",
@@ -558,7 +558,7 @@ export const senators = {
     },
     {
       aspirant: "J. Yarpuyah Yarkpawolo",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Yarkpawolo-J.-Yarpuyah-Margibi.jpg",
       number: "CN-000479",
       type: "Party",
       party: "People’s Unification Party",
@@ -567,7 +567,7 @@ export const senators = {
     },
     {
       aspirant: "Ballah G. Zayzay",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Margibi_County.svg_.png",
       number: "CN-000107",
       type: "Party",
       party: "Unity Party",
@@ -575,10 +575,10 @@ export const senators = {
       county: "Margibi",
     },
   ],
-  maryland: [
+  Maryland: [
     {
       aspirant: "William Phillip Anderson",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Maryland_County.svg_.png",
       number: "CN-000912",
       type: "Party",
       party: "New Liberia Party",
@@ -587,7 +587,7 @@ export const senators = {
     },
     {
       aspirant: "J. Gbleh-bo Brown",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Brown-J.-Gbleh-bo-Maryland-e1690326619393.jpeg",
       number: "CN-000257",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -596,7 +596,7 @@ export const senators = {
     },
     {
       aspirant: "Eric Wlea Giko",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Giko-Eric-Wlea-Maryland.jpg",
       number: "CN-000378",
       type: "Independent",
       party: "Independent Candidate",
@@ -605,7 +605,7 @@ export const senators = {
     },
     {
       aspirant: "Jennifer K. Henshaw",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Henshaw-Jennifer-K.-Maryland.jpg",
       number: "CN-000967",
       type: "Party",
       party: "Movement for Progressive Change",
@@ -614,7 +614,7 @@ export const senators = {
     },
     {
       aspirant: "H. Dan Morais",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Morais-H.-Dan-Maryland-e1690326681402.jpg",
       number: "CN-000571",
       type: "Party",
       party: "Collaborating Political Parties",
@@ -623,7 +623,7 @@ export const senators = {
     },
     {
       aspirant: "J. Tiah Nagbe",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Nagbe-J.-Tiah-Maryland.jpg",
       number: "CN-000457",
       type: "Independent",
       party: "Independent Candidate",
@@ -632,7 +632,7 @@ export const senators = {
     },
     {
       aspirant: "Wollor E. Topor",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Topor-Wollor-E-Maryland.jpg",
       number: "CN-000900",
       type: "Party",
       party: "Liberian National Union",
@@ -641,7 +641,7 @@ export const senators = {
     },
     {
       aspirant: "Henrique B. Wilson",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Wilson-Henrique-B.-Maryland-e1690326762448.jpg",
       number: "CN-000156",
       type: "Independent",
       party: "Independent Candidate",
@@ -649,10 +649,10 @@ export const senators = {
       county: "Maryland",
     },
   ],
-  montserrado: [
+  Montserrado: [
     {
       aspirant: "Saye M. Boyou",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Montserrado_County.svg_.png",
       number: "CN-001017",
       type: "Party",
       party: "Liberian’s People’s Party",
@@ -661,7 +661,7 @@ export const senators = {
     },
     {
       aspirant: "Chernor M. Jalloh",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Jalloh-Chernor-M.-Montserrado-e1690328056755.jpg",
       number: "CN-000725",
       type: "Party",
       party: "Liberian National Union",
@@ -670,7 +670,7 @@ export const senators = {
     },
     {
       aspirant: "Saah Hardy Joseph",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Joseph-Saah-Hardy-Montserrado.jpeg",
       number: "CN-000534",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -679,7 +679,7 @@ export const senators = {
     },
     {
       aspirant: "Idrissa Kaba",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Montserrado_County.svg_.png",
       number: "CN-000148",
       type: "Party",
       party: "All Liberia Coalition Party",
@@ -688,7 +688,7 @@ export const senators = {
     },
     {
       aspirant: "Saranfoday Kanneh",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Kanneh-Saranfoday-Montserrado.jpeg",
       number: "CN-000957",
       type: "Independent",
       party: "Independent Candidate",
@@ -697,7 +697,7 @@ export const senators = {
     },
     {
       aspirant: "Victoria Torlo Koiquah",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Koiquah-Victoria-Torlo-Montserrado-e1690328185884.jpg",
       number: "CN-000666",
       type: "Party",
       party: "Collaborating Political Parties",
@@ -706,7 +706,7 @@ export const senators = {
     },
     {
       aspirant: "Wilmot J.M. Paye",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Paye-Wilmot-J.M.-Montserrado-e1690328236597.jpg",
       number: "CN-000187",
       type: "Party",
       party: "Unity Party",
@@ -715,7 +715,7 @@ export const senators = {
     },
     {
       aspirant: "Ayouba S. Sheriff",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Montserrado_County.svg_.png",
       number: "CN-000622",
       type: "Party",
       party: "United Independent Democrats Party",
@@ -723,10 +723,10 @@ export const senators = {
       county: "Montserrado",
     },
   ],
-  nimba: [
+  Nimba: [
     {
       aspirant: "Roland G. Duo",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Duo-Roland-G.-Nimba.jpg",
       number: "CN-000868",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -735,7 +735,7 @@ export const senators = {
     },
     {
       aspirant: "James D. Hallowanger",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Hallowanger-James-D.-Nimba.jpg",
       number: "CN-000615",
       type: "Party",
       party: "Liberian’s People’s Party",
@@ -744,7 +744,7 @@ export const senators = {
     },
     {
       aspirant: "Prince Yormie Johnson",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Johnson-Prince-Yormie-Nimba.jpg",
       number: "CN-000017",
       type: "Party",
       party: "Movement for Democracy and Reconstruction",
@@ -753,7 +753,7 @@ export const senators = {
     },
     {
       aspirant: "Lawrenso Paye Korquoi",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Korquoi-Lawrenso-Paye-Nimba.jpg",
       number: "CN-000111",
       type: "Party",
       party: "All Liberia Coalition Party",
@@ -762,7 +762,7 @@ export const senators = {
     },
     {
       aspirant: "Armstrong Gobac Selekpoh",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Selekpoh-Armstrong-Gobac-Nimba.png",
       number: "CN-000818",
       type: "Independent",
       party: "Independent Candidate",
@@ -771,7 +771,7 @@ export const senators = {
     },
     {
       aspirant: "Wuo Garbie Sokpah",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Nimba_County.svg_.png",
       number: "CN-000664",
       type: "Party",
       party: "Vision for Liberia Transformation",
@@ -780,7 +780,7 @@ export const senators = {
     },
     {
       aspirant: "Nya D. Twayen, Jr",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Twayen-Jr.-Nya-D.-Nimba.jpg",
       number: "CN-000007",
       type: "Independent",
       party: "Independent Candidate",
@@ -788,10 +788,10 @@ export const senators = {
       county: "Nimba",
     },
   ],
-  riverGee: [
+  RiverGee: [
     {
-      aspirant: "Chelle S. Noring",
-      photo: "",
+      aspirant: "CHELLE S. NORING",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/River_Gee_County.svg_-edited.png",
       number: "CN-000651",
       type: "Party",
       party: "Democratic National Allegiance",
@@ -799,8 +799,17 @@ export const senators = {
       county: "RiverGee",
     },
     {
+      aspirant: "FRANCIS SAIDY DOPOH II",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/DOPOHII-FRANCIS-SAIDY-Rivercess-e1690332073138.jpg",
+      number: "CN-000111",
+      type: "Party",
+      party: "Democratic National Allegiance",
+      partyAcronym: "(IND)",
+      county: "RiverGee",
+    },
+    {
       aspirant: "Commany B.W. Pah, Sr",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/River_Gee_County.svg_-edited.png",
       number: "CN-000982",
       type: "Party",
       party: "Liberia Rebuilding Party",
@@ -809,7 +818,7 @@ export const senators = {
     },
     {
       aspirant: "Gbaye K. Synyenlentu",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/River_Gee_County.svg_-edited.png",
       number: "CN-000301",
       type: "Party",
       party: "Liberian’s People’s Party",
@@ -818,7 +827,7 @@ export const senators = {
     },
     {
       aspirant: "Conmany B. Wesseh",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Wesseh-Conmany-B.-Rivercess-e1690332032376.jpg",
       number: "CN-000374",
       type: "Party",
       party: "Unity Party",
@@ -826,8 +835,17 @@ export const senators = {
       county: "RiverGee",
     },
     {
+      aspirant: "CHARLES K BARDYL",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/River_Gee_County.svg_-edited.png",
+      number: "CN-000112",
+      type: "Party",
+      party: "Coalition for Democratic Change",
+      partyAcronym: "(CDC)",
+      county: "RiverGee",
+    },
+    {
       aspirant: "Francis Saywon Younge",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/River_Gee_County.svg_-edited.png",
       number: "CN-000024",
       type: "Party",
       party: "People’s Unification Party",
@@ -835,10 +853,10 @@ export const senators = {
       county: "RiverGee",
     },
   ],
-  riverCess: [
+  RiverCess: [
     {
       aspirant: "Jay Jonathan Banney",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/08/Rivercess_County.svg_.png",
       number: "CN-000869",
       type: "Party",
       party: "Liberian’s People’s Party",
@@ -847,7 +865,7 @@ export const senators = {
     },
     {
       aspirant: "Francis S. Paye",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/08/Rivercess_County.svg_.png",
       number: "CN-000510",
       type: "Party",
       party: "National Democratic Coalition",
@@ -856,7 +874,7 @@ export const senators = {
     },
     {
       aspirant: "Gabriel B. Smith",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/08/Rivercess_County.svg_.png",
       number: "CN-000245",
       type: "Party",
       party: "Collaborating Political Parties",
@@ -865,7 +883,7 @@ export const senators = {
     },
     {
       aspirant: "Emmanuel Sear Toe",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/08/Rivercess_County.svg_.png",
       number: "CN-000546",
       type: "Party",
       party: "New Liberia Party",
@@ -874,7 +892,7 @@ export const senators = {
     },
     {
       aspirant: "Bill Teah Twehway",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/08/Rivercess_County.svg_.png",
       number: "CN-000186",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -882,10 +900,10 @@ export const senators = {
       county: "RiverCess",
     },
   ],
-  sinoe: [
+  Sinoe: [
     {
       aspirant: "Crayton O. Duncan",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/08/Sinoe_County.svg_.png",
       number: "CN-000268",
       type: "Party",
       party: "Coalition for Democratic Change",
@@ -894,7 +912,7 @@ export const senators = {
     },
     {
       aspirant: "J. Milton Teahjay",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/08/Sinoe_County.svg_.png",
       number: "CN-000548",
       type: "Independent",
       party: "Independent Candidate",
@@ -903,7 +921,7 @@ export const senators = {
     },
     {
       aspirant: "Matthew Gee Zarzar",
-      photo: "",
+      photo: "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/08/Sinoe_County.svg_.png",
       number: "CN-000311",
       type: "Independent",
       party: "Independent Candidate",

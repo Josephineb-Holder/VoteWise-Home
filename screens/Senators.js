@@ -5,6 +5,7 @@ import {
   View,
   Text,
   FlatList,
+  Image
 } from "react-native";
 import { senators } from "./data/SenatorJson";
 // import { Ionicons } from "@expo/vector-icons";
@@ -84,24 +85,12 @@ const SelectCounty = () => {
   const [showArrow, setShowArrow] = useState(false);
   const [selectedCounty, setSelectedCounty] = useState("");
 
-  const countyDrop = senators;
-  console.log(countyDrop.grandKru);
+  console.log("Counties", Object.keys(senators))
 
-  const counties = [
-    "Bomi",
-    "Bong",
-    "Margibi",
-    "GrandKru",
-    "Cape Mount",
-    "Gborpolu",
-    "Sinoe",
-    "Montserrado",
-    "Grand Gedeh",
-    "Grand Bassa",
-    "MaryLand",
-    "River Cess",
-    "River Gee",
-  ];
+  const countyDrop = senators;
+  // console.log(countyDrop.grandKru);
+
+  const counties = Object.keys(senators)
 
   const toggleDropDown = () => {
     setShowArrow(!showArrow);
@@ -131,22 +120,29 @@ const SelectCounty = () => {
         </View>
       )}
 
-      {selectedCounty !== "" && (
+      {(
         <View>
-          <Text> You Have selected : {selectedCounty}</Text>
-        </View>
-      )}
+          <FlatList 
+          data={countyDrop[selectedCounty]}
+          renderItem={({item}) => {
+            return (
+              <View style={styles.senatorsOutput}>
+                <View>
+                <Image style={styles.image}  source={{
+                  uri: item.photo}}/>
+                  </View>
+                <View>
+                  <Text style={styles.aspirantName}>{item.aspirant}</Text>
+                <Text style={styles.title}>
+               {item.party}{'\n'}{item.partyAcronym}{'\n'}{item.number}{'\n'}</Text>
+                </View>
+            
+              </View>
+            )
+          }} 
 
-      {selectedCounty === "GrandKru" && (
-        <View>
-          <Text>{JSON.stringify(countyDrop.grandKru)}</Text>
-          {/* <Text>Nyepan Bropleh</Text>
-
-          <Text>Nyepan Bropleh</Text>
-
-          <Text>Nyepan Bropleh</Text>
-
-          <Text>Nyepan Bropleh</Text> */}
+          keyExtractor={item => item.number}
+    />
         </View>
       )}
     </View>
@@ -183,6 +179,36 @@ const styles = StyleSheet.create({
   dropCounties: {
     backgroundColor: "white",
     paddingLeft: 70,
+  },
+
+  senatorsOutput:{
+    display: 'flex',
+    flexDirection: 'row',
+    backgroundColor: "#002368",
+    color: 'white',
+    marginVertical: 10
+  },
+
+  image: {
+    margin: 10,
+    width: 60,
+    height: 60,
+    borderRadius: 60,
+    resizeMode: "cover",
+  },
+
+aspirantName:{
+color: 'white',
+padding: 5,
+marginHorizontal: 10,
+fontSize: 15,
+},
+
+  title: {
+    padding: 5,
+    fontSize: 11,
+    marginHorizontal: 10,
+    color: "white",
   },
 });
 
