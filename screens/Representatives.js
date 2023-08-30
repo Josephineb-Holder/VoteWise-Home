@@ -19,8 +19,8 @@ function Representatives() {
   repCounties.forEach((countyKey) => {
     const districtKeys = Object.keys(representatives[countyKey]);
 
-    console.log(countyKey);
-    console.log(`Districts: ${districtKeys.join(" ,")}`);
+    // console.log(countyKey);
+    // console.log(`Districts: ${districtKeys.join(", ")}`);
   });
 
   // console.log(countyrep.bomi);
@@ -53,6 +53,37 @@ function Representatives() {
             ))}
           </View>
         )}
+ {
+     
+<View style={styles.container}>
+
+  <FlatList
+    data={countyrep[selectCounty]}
+    renderItem={({ item }) => {
+      return (
+        <View style={styles.senatorsOutput}>
+          <View>
+            <Image
+              style={styles.image}
+              source={{
+                uri: item.photo,
+              }}
+            />
+          </View>
+          <View>
+            <Text style={styles.aspirantName}>{item.aspirant}</Text>
+            <Text style={styles.title}>
+              {item.party}
+            </Text>
+          </View>
+        </View>
+      );
+    }}
+    keyExtractor={(item) => item.number}
+  />
+</View>
+}
+
       </View>
     </>
   );
