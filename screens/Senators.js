@@ -8,6 +8,7 @@ import {
   Image,
   ScrollView,
 } from "react-native";
+import { useNavigation } from "@react-navigation/native";
 import { senators } from "./data/SenatorJson";
 
 const SelectCounty = () => {
@@ -30,70 +31,73 @@ const SelectCounty = () => {
     toggleDropDown();
   };
 
+  const navigation = useNavigation();
+
+  const senatorPress = (item) => {
+    navigation.navigate("SenatorsDetails", {
+      item,
+    });
+  };
+
   return (
+    <>
+      <Text>{selectedCounty || "Counties"}</Text>
+      <View>
+        <TouchableOpacity onPress={toggleDropDown} style={styles.dropDown}>
+          <Text style={styles.headerText}>
+            {selectedCounty || "Select a county"}
+          </Text>
+          <Text style={styles.hamburgerIcon}>{showArrow ? "▲" : "▼"}</Text>
+        </TouchableOpacity>
 
-    <View>
-      <Text>{selectedCounty || "Counties"}</Text> 
-          <ScrollView>
-      <TouchableOpacity onPress={toggleDropDown} style={styles.dropDown}>
-        <Text style={styles.headerText}>
-          {selectedCounty || "Select a county"}
-        </Text>
-        <Text style={styles.hamburgerIcon}>{showArrow ? "▲" : "▼"}</Text>
-      </TouchableOpacity>
+        {showArrow && (
+          <ScrollView style={styles.dropDownCont}>
+            <View>
+              {counties.map((ele) => (
+                <TouchableOpacity key={ele} onPress={() => selectCounty(ele)}>
+                  <Text style={styles.dropCounties}>{ele}</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </ScrollView>
+        )}
+      </View>
 
-      {showArrow && (
-        <View>
-          {counties.map((ele) => (
-          
-            <TouchableOpacity key={ele} onPress={() => selectCounty(ele)}>
-              <Text style={styles.dropCounties}>{ele}</Text>
-            </TouchableOpacity>
-          
-          ))}
-        </View>
-      
-      )}
       {
-
-      
         <View style={styles.container}>
-
           <FlatList
             data={countyDrop[selectedCounty]}
             renderItem={({ item }) => {
               return (
-                <View style={styles.senatorsOutput}>
-                  <View>
-                    <Image
-                      style={styles.image}
-                      source={{
-                        uri: item.photo,
-                      }}
-                    />
+                <TouchableOpacity onPress={() => senatorPress(item)}>
+                  <View style={styles.senatorsOutput}>
+                    <View>
+                      <Image
+                        style={styles.image}
+                        source={{
+                          uri: item.photo,
+                        }}
+                      />
+                    </View>
+                    <View>
+                      <Text style={styles.aspirantName}>{item.aspirant}</Text>
+                      <Text style={styles.title}>{item.party}</Text>
+                    </View>
                   </View>
-                  <View>
-                    <Text style={styles.aspirantName}>{item.aspirant}</Text>
-                    <Text style={styles.title}>
-                      {item.party}
-                    </Text>
-                  </View>
-                </View>
+                </TouchableOpacity>
               );
             }}
             keyExtractor={(item) => item.number}
           />
         </View>
       }
-      </ScrollView>
-    </View>
-    
+    </>
   );
 };
 
 const styles = StyleSheet.create({
   container: {
-    marginBottom: 10
+    marginBottom: 100,
   },
 
   hamburgerIcon: {
@@ -107,12 +111,16 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     marginTop: 15,
   },
+
+  dropDownCont: {
+    marginBottom: 100,
+  },
   dropDown: {
     height: 60,
     backgroundColor: "white",
     paddingLeft: 20,
     display: "flex",
-    position: 'fixed',                                                                                              
+    position: "fixed",
     flexDirection: "row",
   },
 
@@ -120,7 +128,7 @@ const styles = StyleSheet.create({
     color: "#002368",
     borderRadius: 5,
     padding: 10,
-    borderStyle: 'dashed',
+    borderStyle: "dashed",
     borderColor: "#002368",
     borderWidth: 1,
     marginBottom: 10,
@@ -128,7 +136,6 @@ const styles = StyleSheet.create({
     marginHorizontal: 20,
     marginVertical: 2,
     paddingLeft: 70,
-  
   },
 
   senatorsOutput: {
@@ -140,10 +147,9 @@ const styles = StyleSheet.create({
     shadowRadius: 4,
     shadowOpacity: 0.26,
     marginVertical: 10,
-    marginHorizontal: 13,
-    backgroundColor: 'white'
+    marginHorizontal: 11,
+    backgroundColor: "white",
   },
-
   image: {
     margin: 10,
     width: 60,
@@ -156,14 +162,14 @@ const styles = StyleSheet.create({
 
   aspirantName: {
     color: "#002368",
-    marginHorizontal: 7,
+    marginHorizontal: 2,
     marginTop: 20,
     fontSize: 15,
   },
 
   title: {
     fontSize: 11,
-    marginHorizontal: 7,
+    marginHorizontal: 2,
     color: "#c0032c",
   },
 });
