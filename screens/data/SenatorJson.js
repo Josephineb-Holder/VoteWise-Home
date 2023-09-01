@@ -229,6 +229,8 @@ export const senators = {
       party: "Liberia Restoration Party",
       partyAcronym: "(LRP)",
       county: "Gbarpolu",
+      bio: `John K. Benda, Sr is a member of the Liberia Restoration Party. He is a liberian and lives in Liberia. He's currently
+       runing as senator in Gbarpolu.`
     },
     {
       aspirant: "Fatuma Z. Browne",
@@ -239,6 +241,7 @@ export const senators = {
       party: "Movement for One Liberia",
       partyAcronym: "(MOL)",
       county: "Gbarpolu",
+      bio: `Fatuma Z. Browne is from the Movement for one Liberia Party. She's is a Liberian.`,
     },
     {
       aspirant: "Mohammed A. Dukuly",
@@ -249,6 +252,9 @@ export const senators = {
       party: "Liberian’s People’s Party",
       partyAcronym: "(LPP)",
       county: "Gbarpolu",
+      bio: `Mohammed A Dukuly is from the Liberian's People's Party. "I am grateful for your involvement in shaping our democratic process. Your voice matters, and your vote holds the power to shape the future of our nation.
+      In these challenging times, it is crucial to consider the issues that affect us all. From climate change to economic recovery, healthcare to education, collective security, and a conducive political atmosphere, we are faced with critical decisions that will have a lasting impact on our society.
+      I encourage you to be informed and engaged. Take the time to research the candidates, understand their policies, and evaluate their plans for the betterment of our nation. Engage in thoughtful discussions, attend debates, and ask questions to understand their visions better."`,
     },
     {
       aspirant: "Allen M. Gbowee",
@@ -259,6 +265,7 @@ export const senators = {
       party: "Movement for Progressive Change",
       partyAcronym: "(MPC)",
       county: "Gbarpolu",
+      bio: `Allen M. Gbowee is from the Movement for Progressive Change Party. He's a Liberian`,
     },
     {
       aspirant: "Paul K. Kennedy",
