@@ -227,7 +227,7 @@ const styles = StyleSheet.create({
   },
 
   party: {
-    color: "#002368",
+    color: "#c0032c",
     fontSize: 11,
   },
 });

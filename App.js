@@ -40,7 +40,7 @@ const Tabs = () => {
     >
       <Tab.Screen name="Home" component={HomeScreen} />
       <Tab.Screen name="Presidential Aspirant" component={Presidents} />
-      <Tab.Screen name="Representatives" component={Representatives} />
+      {/* <Tab.Screen name="Representatives" component={Representatives} /> */}
       <Tab.Screen name="Senators" component={Senators} />
     </Tab.Navigator>
   );

@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     textAlign: "center",
     marginTop: 20,
+    color: "#002368"
   },
   party: {
     color: "#c0032c",

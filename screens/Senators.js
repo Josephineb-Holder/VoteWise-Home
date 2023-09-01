@@ -13,7 +13,7 @@ import { senators } from "./data/SenatorJson";
 
 const SelectCounty = () => {
   const [showArrow, setShowArrow] = useState(false);
-  const [selectedCounty, setSelectedCounty] = useState("");
+  const [selectedCounty, setSelectedCounty] = useState("Montserrado");
 
   // console.log("Counties", Object.keys(senators))
 
@@ -41,7 +41,7 @@ const SelectCounty = () => {
 
   return (
     <>
-      <Text>{selectedCounty || "Counties"}</Text>
+      {/* <Text>{selectedCounty || "Counties"}</Text> */}
       <View>
         <TouchableOpacity onPress={toggleDropDown} style={styles.dropDown}>
           <Text style={styles.headerText}>

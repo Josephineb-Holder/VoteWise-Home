@@ -103,6 +103,7 @@ export const senators = {
       party: "National Development Party",
       partyAcronym: "(NDP)",
       county: "Bong",
+      bio: `Mr Mogana Szorkpor Flomo is from the National Development Party. One of the key initiatives he's dedicated to is championing the Rural Education and Health Act. This comprehensive bill, which has been meticulously crafted to improve the living conditions of our rural communities, underscores the critical importance of accessible and quality education and healthcare services in Liberia.`
     },
     {
       aspirant: "Ranney B. Jackson",
@@ -113,6 +114,9 @@ export const senators = {
       party: "Rainbow Alliance",
       partyAcronym: "(RA)",
       county: "Bong",
+      bio: `Ranney B. Jackson is from the Rainbow Alliance Party. Under Jackson’s watch as superintendent, Bong County recorded a lot of developments, including the fencing of the David Kuyon Sports stadium, renovation of the presidential compound, rehabilitation of the superintendent’s compound, and the provision of electricity in Gbarnga, among others.His supporters think Jackson remains the most prepared for the Senate seat considering his experience in party politics at the county level.
+       Were the race to be a senator of Bong County a free gift Jackson would be easily crowned because of his rich credentials.
+      Jackson’s ambition, however, hinges on whether his brother-in-law Tokpa will seek re-election. According to many, negotiations are underway for Tokpa to back off for Jackson, but it’s not clear whether Tokpa has caved in to allow Jackson to contest`
     },
     {
       aspirant: "Edward W. Karfiah",
@@ -123,6 +127,15 @@ export const senators = {
       party: "People’s Unification Party",
       partyAcronym: "(PUP)",
       county: "Bong",
+      bio: `Edward W. Karfiah is from the People's Unification Party. In his interactions with the electrics, the incoming Senator of Bong sensitised the citizens of why he Karfiah should be elected as senator for Bong County.
+      Great Leader Edward Karfiah further clarified to the citizens that he has all of the qualifications that qualify a man to become senator.
+       He then categorised all of his qualifications into the following:
+      *An Experience Leader, 
+      *A Developer, 
+      *A Reconciler, 
+      *A Leader that is willing to Unified the people of Bong County,
+      *A Leader who is always willing to advocate for his citizens, and etc.
+      `
     },
     {
       aspirant: "Johnny K. Kpehe",
@@ -133,6 +146,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Bong",
+      bio: `Johnny K. Kpehe is from the Independent Candidate Party, He has been part of this community for many years, working tirelessly to make it a better place. This have happened through manpower development, the creation of learning institution and scholarship provision at undergraduate institutions in Bong.`,
     },
     {
       aspirant: "Mohammed A. Nasser",
@@ -143,6 +157,25 @@ export const senators = {
       party: "All Liberian Party",
       partyAcronym: "(ALP)",
       county: "Bong",
+      bio: `Mohammed A. Nasser is from the All Liberia Party. Nasser, former president Federation for Liberian Youth (FLY),Chief Executive Officer Of Nasser Youth Initiative and current Technical Team Manager at Liberia Agency for Community Empowerment (LACE)
+
+      He is a man with rectitude character and legitimacy.
+      
+      He's an experienced Representative with a demonstrated history of working in the civic & social organization industry. Skilled in Nonprofit Organizations, Budgeting, Microsoft Word, Government, and Public Speaking. Strong professional with a Master of Business Administration (MBA) focused in Public Financial Management from University of Liberia.
+      He holds master's degree in lnternational Relations and Affairs with emphasis in Diplomacy, Political Science and negotiation. Short courses in Conflict resolution and related peace building modules.
+      
+      He helps community based institutions with support to different sporting disciplines (football, kickball & Physical fitness); Play advisory role to youth groups and other community based institutions.
+      
+      He served as director of Internal Audit at Ministry of Public works from April 2009 to October 2011.
+      His responsibilities at the time included
+      •Assist establish and monitor the achievement of organizational objectives.
+      •Assist identify, assist and manage risks to those objectives.
+      •To advise on, formulate and evaluate policy within the responsibilities of the Ministry.
+      •To ensure compliance with policies, laws and regulations.
+      •To ascertain the integrity and reliability of financial and other information provided to management and stakeholders, including that used in decision making.
+      •To ascertain that systems.....
+      
+     Nasser cares for everyone in his county of origin (Bong county)and Liberia,mainly ordinary citizens.He speaks the truth when public money is being stolen by leaders,and he doesn't care who gets hurt, his recent interview held with"Independent probe" newspaper journalist(Joseph Tumbey)calling for audit in Bong County development fund speaks to the fact that; he's a man with integrity.`,
     },
     {
       aspirant: "Bright Fahnlon Sackie",
@@ -153,6 +186,15 @@ export const senators = {
       party: "Liberia Transformation Party",
       partyAcronym: "(LTP)",
       county: "Bong",
+      bio: `Bright Fahnlon Sackie is from the Liberia Transformation Party.    Sackie, who is a businessman between Liberia and Germany, has also served in many capacities of leadership in Liberia.
+
+      The businessman explained that since he went to the Holy Land in Israel in 2012 everything about his life has been working according to what he told God in his prayer request to Him in Jerusalem.
+   
+      He said every day and night his heart tells him to serve at the upper level of leadership for the people of Bong County. According to him, everything about his life has been only God, and it comes to pass.
+   
+      “My coming into the race is not by my own power, but God’s intervention. I believe I was called by God to let my people go,” he stated. According to him, his leadership will revamp every segment of Sanoyea and Bong County at large.
+   
+      He said Sanoyea, where he was born, still operates the old clinic built by the missionaries during those days, which he indicated causes him to frown on those in leadership in the county, particularly the office of the Vice President.`,
     },
     {
       aspirant: "Henrique F. Tokpa",
@@ -163,6 +205,7 @@ export const senators = {
       party: "Unity Party",
       partyAcronym: "(UP)",
       county: "Bong",
+      bio: `Henrique F. Tokpa is from the Unity Party. He said Until the needs of Bong County are met, we  won't stop our efforts to see a transformed County. We promised medical supplies that would support our health facilities few months ago. Promise delivered! In order to make his vision a reality, Tokpa also promised to push for more budgetary allocations to the country’s agro industry, which has faced years of uncertainty due to lack of underfunding by the government, coupled with the issue of human resource and capacity hurdles. “As a result we will continue to lobby with our colleagues in the Senate to support this worthy cause,” he declared.`,
     },
     {
       aspirant: "J. Alexander Zogbaye",
@@ -173,6 +216,7 @@ export const senators = {
       party: "Greater Action Party Of Liberia",
       partyAcronym: "(GAPL)",
       county: "Bong",
+      bio: `Alexander Zogbaye: A native of Palala, Kpaii District and a member of the ruling Coalition for Democratic Change (CDC), Zogbaye has been making inroads in the county since he declared his intention. It’s not clear whether the CDC would pick him over Yallah to contest on its ticket in 2023.`,
     },
   ],
   Gbarpolu: [
