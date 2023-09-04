@@ -128,7 +128,6 @@ const styles = StyleSheet.create({
     color: "#002368",
     borderRadius: 5,
     padding: 10,
-    borderStyle: "dashed",
     borderColor: "#002368",
     borderWidth: 1,
     marginBottom: 10,

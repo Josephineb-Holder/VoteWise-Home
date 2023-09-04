@@ -103,7 +103,7 @@ export const senators = {
       party: "National Development Party",
       partyAcronym: "(NDP)",
       county: "Bong",
-      bio: `Mr Mogana Szorkpor Flomo is from the National Development Party. One of the key initiatives he's dedicated to is championing the Rural Education and Health Act. This comprehensive bill, which has been meticulously crafted to improve the living conditions of our rural communities, underscores the critical importance of accessible and quality education and healthcare services in Liberia.`
+      bio: `Mr Mogana Szorkpor Flomo is from the National Development Party. One of the key initiatives he's dedicated to is championing the Rural Education and Health Act. This comprehensive bill, which has been meticulously crafted to improve the living conditions of our rural communities, underscores the critical importance of accessible and quality education and healthcare services in Liberia.`,
     },
     {
       aspirant: "Ranney B. Jackson",
@@ -116,7 +116,7 @@ export const senators = {
       county: "Bong",
       bio: `Ranney B. Jackson is from the Rainbow Alliance Party. Under Jackson’s watch as superintendent, Bong County recorded a lot of developments, including the fencing of the David Kuyon Sports stadium, renovation of the presidential compound, rehabilitation of the superintendent’s compound, and the provision of electricity in Gbarnga, among others.His supporters think Jackson remains the most prepared for the Senate seat considering his experience in party politics at the county level.
        Were the race to be a senator of Bong County a free gift Jackson would be easily crowned because of his rich credentials.
-      Jackson’s ambition, however, hinges on whether his brother-in-law Tokpa will seek re-election. According to many, negotiations are underway for Tokpa to back off for Jackson, but it’s not clear whether Tokpa has caved in to allow Jackson to contest`
+      Jackson’s ambition, however, hinges on whether his brother-in-law Tokpa will seek re-election. According to many, negotiations are underway for Tokpa to back off for Jackson, but it’s not clear whether Tokpa has caved in to allow Jackson to contest`,
     },
     {
       aspirant: "Edward W. Karfiah",
@@ -135,7 +135,7 @@ export const senators = {
       *A Reconciler, 
       *A Leader that is willing to Unified the people of Bong County,
       *A Leader who is always willing to advocate for his citizens, and etc.
-      `
+      `,
     },
     {
       aspirant: "Johnny K. Kpehe",
@@ -230,7 +230,7 @@ export const senators = {
       partyAcronym: "(LRP)",
       county: "Gbarpolu",
       bio: `John K. Benda, Sr is a member of the Liberia Restoration Party. He is a liberian and lives in Liberia. He's currently
-       runing as senator in Gbarpolu.`
+       runing as senator in Gbarpolu.`,
     },
     {
       aspirant: "Fatuma Z. Browne",
@@ -276,6 +276,7 @@ export const senators = {
       party: "Liberian National Union",
       partyAcronym: "(LINU)",
       county: "Gbarpolu",
+      bio: `Paul K. Kennedy is the Health Systems Strengthening and Policy Advisor at the National Public Health Institute of Liberia, (NPHIL). In this role, he has provided technical support and expert advisement for the development of public health interventions and policies and has provided recommendations for the development of strategic actions that have contributed to the prevention, control, and management of infectious diseases of public health threats to Liberians. Prior to joining NPHIL, Mr. Kennedy served as Director of Environmental and Social Performance (ESP) at the Millennium Challenge Account Liberia (MCAL). In this role, he led MCAL Environmental Sector in providing support to Sector Leads and relevant stakeholders, to address health and environmental issues related to the Millennium Challenge Corporation (MCC) 257 Million US Dollars Compact implementation in Liberia.`,
     },
     {
       aspirant: "Alfred G. Koiwood",
@@ -286,6 +287,9 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Gbarpolu",
+      bio: `Mr. Alfred G Koiwood is the incumbent Representative for district #1 Gborpolu county. Here What has been up to in the legislation : Gbarpolu County District #1 representative, Representative Alfred G. Koiwood has submitted a bill seeking the establishment of a community college in Gbarpolu County.
+      In a communication addressed to Speaker Bhofal Chambers dated July 6, 2021, Representative Koiwood emphasized the need for the creation of a community college that will help to enhance higher education and the decentralization of tertiary education in Gbarpolu County.In his communication, Representative Koiwood further noted that realizing the high level of illiteracy in Liberia, a situation the lawmaker said amounts to 60%, the county is of no exception.
+      Furthermore, Representative Koiwood’s communication emphasized the lack of a tertiary establishment in the county, a situation representative Koiwood said has made the secondary school the educational endpoint of the county’s youthful population.The bill when passed into law will create learning opportunities for citizens of Gbarpolu County and other counties in the region.Meanwhile, Representative Koiwood when quizzed by legislative reporters upon the submission of the educational bill said with the county having nine high schools, but no tertiary school, it is causing serious impediment for the county. `,
     },
     {
       aspirant: "Amara Mohammed Konneh",
@@ -296,17 +300,22 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Gbarpolu",
+      bio: `Amara Konneh's career began at the Vanguard Group of Investment Companies in 1999, recruited through the Vanguard Group's Smart Program. He worked briefly with the International Rescue Committee as a coordinator for refugee schools in Guinea, West Africa.
+
+      He is a graduate of the John F. Kennedy School of Government at Harvard University where he received a master's degree in public administration with a concentration in political and economic development. He also holds a master's degree from Pennsylvania State University and a bachelor's degree from Drexel University in Philadelphia, Pennsylvania.
+      
+      Before that, Mr. Konneh served as Liberia's Minister of Finance and Development Planning from February 2012 to April 2016. He is credited with helping to stabilize the Liberian economy from the effects of a protracted civil war, the twin shocks of commodity price declines for Liberia's primary commodities – rubber and iron ore – and the Ebola pandemic that almost brought the Liberian economy to its knees in 2014 by implementing fiscal and structural policies for macroeconomic stability. Under his stewardship and even with the devastating impact of Ebola and commodity price decline on the economy, the average growth rate for the Liberian economy was 6 percent; average inflation was 8 percent; while the average exchange rate was US$1 to LD$84 and average budget deficits were 3.4 percent`,
     },
-    {
-      aspirant: "Daniel F. Naatehn, Sr",
-      photo:
-        "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Naatehn-Sr.-Daniel-F.-Gbarpolu.jpg",
-      number: "CN-000305",
-      type: "Party",
-      party: "Collaborating Political Parties",
-      partyAcronym: "(CPP)",
-      county: "Gbarpolu",
-    },
+    // {
+    //   aspirant: "Daniel F. Naatehn, Sr",
+    //   photo:
+    //     "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Naatehn-Sr.-Daniel-F.-Gbarpolu.jpg",
+    //   number: "CN-000305",
+    //   type: "Party",
+    //   party: "Collaborating Political Parties",
+    //   partyAcronym: "(CPP)",
+    //   county: "Gbarpolu",
+    // },
     {
       aspirant: "Cole Sumo Payne",
       photo:
@@ -328,6 +337,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Grand Bassa",
+      bio: `Mr. Janjay Baikpeh is the sitting Superintendent.`,
     },
     {
       aspirant: "Gbehzohngar M. Findley",

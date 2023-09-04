@@ -9,7 +9,7 @@ function SenatorsDetails({ route }) {
     <>
       <ScrollView>
         <View>
-          <View>
+          <View style={styles.imgView}>
             <Image
               style={styles.image}
               source={{
@@ -30,8 +30,11 @@ function SenatorsDetails({ route }) {
 
 const styles = StyleSheet.create({
   image: {
-    width: 375,
+    width: "100%",
     height: 450,
+  },
+  imgView: {
+    marginHorizontal: 10,
   },
   senatorsInfo: {
     marginHorizontal: 20,
@@ -41,7 +44,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     textAlign: "center",
     marginTop: 20,
-    color: "#002368"
+    color: "#002368",
   },
   party: {
     color: "#c0032c",

@@ -7,7 +7,7 @@ function PresidentsDetails({ route }) {
     <>
       <ScrollView>
         <View>
-          <View>
+          <View style={styles.imgView}>
             <Image style={styles.image} source={candidateInfo?.image} />
           </View>
           <View style={styles.presidentsInfo}>
@@ -28,16 +28,19 @@ const styles = StyleSheet.create({
     marginHorizontal: 20,
   },
   image: {
-    width: 375,
+    width: "100%",
     height: 450,
   },
-
+  imgView: {
+    // padding: 10,
+    marginHorizontal: 10,
+  },
   aspirantName: {
     fontSize: 25,
     fontWeight: "bold",
     textAlign: "center",
     marginTop: 20,
-    color: "#002368"
+    color: "#002368",
   },
   party: {
     color: "#c0032c",
