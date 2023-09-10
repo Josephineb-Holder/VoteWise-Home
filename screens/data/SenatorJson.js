@@ -348,6 +348,11 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Grand Bassa",
+      bio: `Senator Findley implemented a platform based on strengthening education, skills training and community infrastructure development.[31] Findley spearheaded the development of the Grand Bassa County Community College where he served as a member of the board of directors.[32] He also served on the board of directors of the University of Liberia.
+
+      Findley supported education by providing 123 scholarships for students to attend several universities in Monrovia and Grand Bassa Community College in Buchanan.[9] He paid all West African Examination (WAEC) fees for all ninth and twelfth grade students for the 2012/2013 school year.[33] During visits to the U.S., Findley lobbied for scholarships and student and faculty exchange programs at universities in the states of Maryland, California and Ohio. He donated personal funds towards the Barcorlin Women Skill Training Program.[9]
+      
+      Community investments include provision of personal funds to spearhead a micro loan program for small business owners in Grand Bassa County.[34] Findley made financial contributions towards the construction of the Compound District #4 high school and a community latrine in the Tarr Bar Community in Buchanan. He donated over 200 bags of cement and other building materials towards the school construction project in Zadoegbo Town, District #4; the E.C. Church school construction project in District #4; the women and youth center building in District #2; and towards the completion of the Blezee Administrative District community hall in Barzi-Giah Town, District #3. In response to several deaths due to water borne diseases, Findley self-sponsored the construction of a hand pump in the Joe Quarter Community in Buchanan to provide citizens safe drinking water.[9]`,
     },
     {
       aspirant: "Magdalene G. Harris",
@@ -358,6 +363,13 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Grand Bassa",
+      bio: `Mrs. Magdalene G Harris is a independent candidate constesting for the senatorial seat in grand bassa county. According to the bush chicken news website, mandam Harris shared some of  her plans for the county in her petiton acceptance speech. These were her words "The people of Grand Bassa County need to be empowered. We must engage in and support programs that protect our citizens’ interests globally. We must work to ensure that our citizens have the opportunity to make a difference in their lives economically, and be trusted to drive their own destiny. We must work hard with citizens to develop their individual willpower to transform the future of their county. It is the political will and leadership we need to move the county forward to building sustainable institutions, growing the economy, and seeking fiscal monetary stability.”
+
+      Harris, who lived in the U.S. for many years until she moved back a few years ago, said she grew up in the village and attended schools with no desks, books, or pencils – something that is still continuing today and needs to be changed.
+      
+      “We must find a way to work together with them and improve the condition of their lives,” she said. “After serving many humanitarian organizations, I am now ready to promote change through service in Grand Bassa County to make a break with the past for the better. Harris said if chosen for the Senate, she would focus on peacebuilding and social protection, growing the Grand Bassa economy, infrastructure development, and ensuring accountability.
+
+      “We must grow our agriculture sector through farming, agro-processing, and marketing – encouraging small business development, creating opportunities for employment, focusing on workforce development, and encouraging direct foreign investment and partnerships,” she added."`,
     },
     {
       aspirant: "Jonathan L. Kaipay",
@@ -368,6 +380,9 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Grand Bassa",
+      bio: `Mr. Jonathan Lambort Kaipay is now a Senator of Grand Bassa County He was overwhelmingly elected on the ticket of the Liberty Party during a Special Senatorial Election on December 20, 2014. He is Chairman of the Senate Standing Committee on Autonomous Commissions, Co-Chairman of the Senate Standing Committee on Concessions and Investment. The Senate is also Member of the following Senate Standing Committees: Information, Broadcasting, Culture and Tourism; Agriculture, Forestry and Fisheries and Defense, Security, Intelligence and Veteran Affairs.
+      In addition, Mr. Kaipay is a former Vice Chairman on Mobilization for The Student Rally for Academic Progress and Democracy (STRAPD) at the United Methodist University and is the former Research Officer with the Office of Connectional Ministries at the United Methodist Center in Monrovia. He also served as Director of the Department of Community Services (DCS) at the Conference Center of the United Methodist Church with three active programs under his stewardship. As Director of DCS, Mr. Kaipay has contributed immensely in transforming the lives of thousand Liberians through the implementation of community-based developmental projects throughout the length and breadth of Liberia. Mr. Kaipay is a member of several high-profile boards in the Liberia Annual Conference of the United Methodist Church; namely, Board of Health, Board of Finance and Board on Episcopacy. 
+      Reference: Mr, Kaipay Personal Website`,
     },
     {
       aspirant: "Jeremy G. Russell",
@@ -410,16 +425,32 @@ export const senators = {
       party: "United Independent Democrats Party",
       partyAcronym: "(UID)",
       county: "Grand Cape Mount",
+      bio: `Mr Kiazolu is the representative for district 17 montserrado county. In a telephone interview with the new dawn news paper Tuesday, 11 April 2023, Kiazolu said he has done more than enough for District #17 in Montserrado County.
+
+      But he said his own home County, Grand Cape Mount has suffered at the expense of past leadership failures to project growth that will bring development.
+      
+      According to him, he will do everything possible in his capacity to seek the interest of the county.
+      
+      "Development doesn't mean you should take your own money to say you are developing your county, it also could mean that your ... input could drive people into developing your county," Kiazolu argued.
+      
+      "But unfortunately, Cape Mount, which is known as a land of opportunity, is not like that," he said.
+      
+      The District #17 lawmaker also believes that Grand Cape Mount County has fertile soil that is good for agriculture.
+      
+      As such, he said he will strive to drive agricultural development by making his farm to help the people of the county.He believes if the opportunity is given to him, he will do more to develop Grand Cape Mount.
+
+      He promised to put in place a policy for the county's development fund not to be given to the county superintendent for vehicle purchase.`,
     },
     {
       aspirant: "Lyndon G. Mabande",
       photo:
-        "http://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Grand_Cape_Mount_County.svg_.png",
+        "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/299156305_10159036905216376_8778495049881264246_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1b51e3&_nc_eui2=AeExAMGquqq1SVVGsSItk2EfB7ha2k0PFbIHuFraTQ8VslTsfaEiFwfnSDfwhmYMuFJNsctojf64QVBioiQ_5450&_nc_ohc=5-PI_zHKiJYAX_vsqGB&_nc_oc=AQkU4M3KcVQXlI2F8v5r0GThLXPOjWHvCP9tq7-CmLaPunlzG26gH_zajvoewBylm7I&_nc_ht=scontent-cdg4-2.xx&oh=00_AfA9dwmVbZ_m87knID230anYLLJ8MNPyT7IUukAxvt6QNA&oe=65031705",
       number: "CN-000206",
       type: "Party",
       party: "Liberian’s People’s Party",
       partyAcronym: "(LPP)",
       county: "Grand Cape Mount",
+      bio: `Mr Mabande is a registered member of the dental council of liberia. according to his facebook page he has bridge and roads projects ongoing in cape mount.`,
     },
     {
       aspirant: "Morris Salia Nyei",
@@ -440,6 +471,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Grand Cape Mount",
+      bio: `Sherman was born on February 16, 1953, in Robertsport, Grand Cape Mount County, and graduated from St. John's Episcopal High School in 1971.[1] He continued his education at Cuttington University where he earned a degree in 1975.[1] In 1979, he was awarded a Bachelor of Laws at the Louis Arthur Grimes School of Law at the University of Liberia in Monrovia.[1] Sherman completed his education in 1982 in the United States where he earned a Master of Law at Harvard Law School.[1] In 2003, Cuttington University of Liberia conferred on him the honorary LLD. degree in recognition of his philanthropy, especially his personal financial and material support for higher education in Liberia.By 1997, in the aftermath of the First Liberian Civil War, Sherman had begun to speak prominently on political matters. A prominent Monrovia lawyer and a partner in the law firm of Sherman and Sherman, he garnered front-page newspaper coverage for a speech to the Liberian Business Association denouncing the government for what he saw as non-enforcement of a hiring policy meant to favor Liberian citizens and businesses.[3] Running as the standard bearer of the four-party Coalition for the Transformation of Liberia (COTOL) in the 11 October 2005 presidential elections, Sherman placed fifth out of 22 candidates, receiving 7.8% of the vote.[4] He then endorsed George Weah for the run-off election.`,
     },
     {
       aspirant: "Mambu M. Sonii",
@@ -460,6 +492,15 @@ export const senators = {
       party: "Unity Party",
       partyAcronym: "(UP)",
       county: "Grand Cape Mount",
+      bio: `According to Today Liberia news site,Aspirant Varplia said, as daughter of Grand Cape Mount County, she is prepared, and ready to serve her people and won’t step aside as she sees her people going through the need of true leadership.
+
+      ” True Leadership is what I have come to provide”, she assured.
+      
+      Aspirant Varplia however said, Cape Mount has not been able to produce a female legislator among the county Caucus members, adding that it’s time to produce female senator.
+      
+      The lone female Aspirant, said, the world is changing, and as such the mind of the people needs to be developed so as to be useful in society.She maintained, that Cape Mount County needs female representation in terms of lawmaking, oversight and among others.
+
+      Speaking further, Madam Varplah made reference to the Bea Mountain Mining Company in Cape Mount, as the current legislators are not using their oversight responsibility to benefit the people by providing their input to improve the Health, Sanitation, Education, social and agricultural sectors but rather citizens have to demonstrate before they can benefit from their own resources.`,
     },
     {
       aspirant: "Victor Varney Watson",
@@ -470,6 +511,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Grand Cape Mount",
+      bio: `Mr Watson is the current senator of cape mount. according to the frontpage africa news site, Senator Victor Varney Watson says the high-level of disunity among elected and appointed officials of the county presently, is denying citizens the opportunity to benefit from sustainable developments.Senator Watson said since 1856, Grand Cape Mount County has been backward in terms of economic and infrastructural growth and development because of the lack of togetherness among its leaders.The road is being constructed by the Grand Cape Mount County Senator in collaboration with the Chief Executive Officer (CEO) of the Hard Works Is The Only Way Multi-Purpose Cooperative, Mr. Idrissa Bomba Mansaray.He maintained that citizens should desist from blaming past officials hailing from the county for the lack of meaningful developments and rally their support around those applying efforts to help develop the area. `,
     },
     {
       aspirant: "Sando Wayne",
@@ -480,6 +522,7 @@ export const senators = {
       party: "Economic Freedom Fighters Of Liberia",
       partyAcronym: "(EFFL)",
       county: "Grand Cape Mount",
+      bio: `In one of his facebook post, Mr.Wayne said,'Desperation might have driven voters to trade their votes for instant gratification, leaving their future in free fall! This made our voters prey for politician at election time. Facing up to this reality would allow for a far more honest conversation about Cape Mount’s struggle to thrive in an ocean of wealth; this requires a more imaginative discussion about how to set the county on the path toward job creation through the development of the county’s tourism potential and economic infrastructure, support for contract farming, generation of increase revenue, and promotion of inclusive growth. This would show that what Cape Mount needs is not just a change in leadership at every election but for all to focus on the future and leverage the county’s comparative advantages in the tourism sector, contract farming, ASM, and human capacity development to achieve inclusive growth. Ultimately, this will grow not only the county’s revenue, but increase the national revenue basket to not less than a billion dollars annually!' `,
     },
     {
       aspirant: "Edwin G.K. Zoedua",
@@ -512,6 +555,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Grand Gedeh",
+      bio: `A Marshall Dennis is the current senator in Grand Gedeh county. He is on the ways means and finance commitee of the senate`,
     },
     {
       aspirant: "William Y. Glay",
@@ -532,6 +576,7 @@ export const senators = {
       party: "Unity Party",
       partyAcronym: "(UP)",
       county: "Grand Gedeh",
+      bio: `Mr.Grant is the representative of district #3 in grand gedeh county. `,
     },
     {
       aspirant: "Thomas Yaya Nimely",
@@ -542,6 +587,7 @@ export const senators = {
       party: "Liberia Restoration Party",
       partyAcronym: "(LRP)",
       county: "Grand Gedeh",
+      bio: `Thomas Yaya Nimely (born 1956) is a politician in Liberia. In 2003 he became the leader of the Movement for Democracy in Liberia (MODEL), which soon became Liberia's second largest rebel group.[1] Following the exile of President Charles Taylor, Nimely led his group into the transitional government which was formed on 14 October 2003. He then served as the foreign minister of Liberia until February 2006, when the elected President Ellen Johnson Sirleaf took office and established her new cabinet. Sources: Wikipedia`,
     },
   ],
   GrandKru: [
@@ -554,6 +600,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Grand Kru",
+      bio: `Albert Tugbe Chie is a Liberian politician and Member of the Senate of Liberia from Grand Kru County Constituency[1] who is serving as President Pro Tempore of the Senate of Liberia`,
     },
     {
       aspirant: "VINCENT TOE DOE",
@@ -576,6 +623,9 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Lofa",
+      bio: `Mr.Cyrus is one of Liberia’s professional security experts; his private security guard service has been considered in Liberia as one of the most dependable private security agency, its professional services over the years have won the hearts and minds of owners of local businesses due to the commitment of workforce (Security Guards).Accordingly, Mr. Cyrus said the people of Lofa will see a new leadership style that will pay dividends to them. He also said, "he is prepared to work for the people of Lofa, stating, “we are coming to serve and to give back to our people instead of receiving.” Mr. Momo T. Cyrus, has embarked on his newest initiative in Lofa County, the construction of a dormitory for children, women and men who are visually impaired.
+
+      According to Mr. Cyrus, the construction of the facility is the Cyrus' family way of giving back to underprivileged and disadvantaged communities in order to strengthen their capacities.Sources: GNN Liberia `,
     },
     {
       aspirant: "Mohamed O. Kamara",
@@ -596,6 +646,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Lofa",
+      bio: `Chief Moses Yarkpazuo Kollie is a professional Public Administrator with over twenty-Five (25) years of public service and twenty (20) years of practical managerial skills, National and International Experienced Legislator. He has exceptional and specialized training in Financial & Economic Management, Budgeting, Good Governance and Taxation from the West African Institute of Financial and Economic. He is a former Minister of Labour of the Republic of Liberia. Kollie worked successfully since 2018 in upholding and ensuring the full implementation of the Decent Work Act of Liberia(DWA), the smooth and impartial adjudication of Labour cases and also hosted the first National Labour conference which further foster and encouraged policy discussions towards a united Labour sector; bringing together the National Tripartite Council(NTC) of the Labour Sector of Liberia; comprising of; Representatives of Employers’ Association; Representatives of Employees’ Association and the Government of Liberia. While serving as a legislator, he also Chaired the Committee on Investment & Concessions for Six years, at the same time served as Head of Delegation for nine years to the African, Caribbean, Pacific and European Union Joint Parliamentary Assembly (ACP-EU/JPA) based in Brussels, the Kingdom of Belgium. During his twelve (12) years of service at the House of Representatives, Hon. Kollie also served as Member on the House’s National Budget Committee for Ten (10) Years and later became Chairman for Two years of said Committee. Additionally, he also served as Chair of the Lofa County Legislative Caucus for several Years. Sources: GovServ Website`,
     },
     {
       aspirant: "Galakpai W. Kortimai",
@@ -616,6 +667,7 @@ export const senators = {
       party: "Democratic National Allegiance",
       partyAcronym: "(DNA)",
       county: "Lofa",
+      bio: `Mr.Machulay is a member of the Democratic National Allegiance, he contesting for the senatorial position in Lofa county.According to his facebook page,Top issues on his political platform are: Good Leadership, Good Healthcare, Quality Education,Agriculture,Accountibility and Transparency, Econimic Empowerment for all, E.T.C`,
     },
     {
       aspirant: "Mohamed M.J. Manssalay",
@@ -636,6 +688,7 @@ export const senators = {
       party: "Unity Party",
       partyAcronym: "(UP)",
       county: "Lofa",
+      bio: `Mr.Zargo is the Current Senator for lofa county. He is the chair for Intelligence,Security and Committee.`,
     },
   ],
   Margibi: [
@@ -648,6 +701,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Margibi",
+      bio: `According to the frontpage africa news site, Margibi County senatorial aspirant and Chief Executive Officer of the Liberia-Ghana Missions (LGM), Rev. Emmanuel J. Giddings, has introduced an educational support program named and styled “LGM- Rev. Giddings Excellent Scholars Award Program (LGM GE-SAP)”. At the official launch over the weekend in Duazon, Lower Margibi County,  Rev. Giddings awarded eighteen (18) recent high school graduates with full (four years) undergraduate scholarship valued at 10. 3 million Liberian Dollars to attend the United Methodist University (UMU) to study disciplines of their choice.“I intend to improve the educational system of our country coupled with the preparedness of our students for academic excellence. I hope that such a move serves as a means of motivating and inspiring the future generation of leaders.” Mr. Giddings said.`,
     },
     {
       aspirant: "Emmanuel D. Gonquoi",
@@ -658,6 +712,7 @@ export const senators = {
       party: "Economic Freedom Fighters Of Liberia",
       partyAcronym: "(EFFL)",
       county: "Margibi",
+      bio: `Emmanuel Gonquoi is head of the Economic Freedom Fighters in Liberia (EFFL), which is modeled on the far-left EFF led by Julius Malema in South Africa. Gonquoi accused Weah of looting the country back in July, and in light of this new crisis wants schools and businesses closed as marchers demand to know what happened to Liberia’s money.`,
     },
     {
       aspirant: "Clarice Alpha Jah",
@@ -668,6 +723,7 @@ export const senators = {
       party: "Collaborating Political Parties",
       partyAcronym: "(CPP)",
       county: "Margibi",
+      bio: `Madam Jah is a former senator for margibi county.Madam Jah served in the 52nd and 53rd National Legislatures on the ticket of the opposition Liberty Party.According to Front page Africa news site,Madam stated " that in pursuit for public positions and to represent the rubber tappers, market women, youths and traditional elders of Margibi, one must clearly understand that integrity in public and private leadership is a precondition to functional public trust and effective representation."`,
     },
     {
       aspirant: "Nathaniel F. McGill",
@@ -688,6 +744,7 @@ export const senators = {
       party: "Liberian’s People’s Party",
       partyAcronym: "(LPP)",
       county: "Margibi",
+      bio: `Fayiah Vandalark R. Patricks is A SON OF A RUBBER TAPPER AND A BITTER BALL SELLER from Lower Margibi County. He is a firebrand social justice activist, a renowned Human Rights Defender (HRD) and an ambitious son of Margibi County. His biological parents are Saah Tebabu Patricks and Kumbah Tofa Patricks from Division # 44, where they lived and worked for Firestone many years ago. Vandalark is a Christian by religion. He was baptized as a Catholic at St. Piux Catholic Church in Harbel, Margibi on April 12, 1998. His late father was a free thinker whose faith in God and belief in traditional values and principles were unique. His biological mother is a practicing Muslim, and his guardian is a Christian and an astute woman of God. Vandalark was often abused as a child, where he was subjected to doing intensive labor to survive when his parents could no longer afford to support him owing to poverty. With no money to further his education, he sold cornbread, Kool-Aid, and DK clothes on the streets in Firestone to further his education at the Harbel Multilateral High School in Lower Margibi County, Liberia. From 1997 to 1999, Vandalark was a student at Harbel Multi. He was an honor student, very eloquent, humble, disciplined, and above all, people-centered. Source:One Margibi News Site.`,
     },
     {
       aspirant: "Joshua V. Robinson",
@@ -698,6 +755,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Margibi",
+      bio: `Hon. Joshua Robinson served as Superintendent of Mboo Statutory district in Lower Margibi.`,
     },
     {
       aspirant: "J. Yarpuyah Yarkpawolo",
@@ -708,6 +766,7 @@ export const senators = {
       party: "People’s Unification Party",
       partyAcronym: "(PUP)",
       county: "Margibi",
+      bio: `According to Frontpage Africa news site. in his acceptance speech, Mr. Yarkpawolo said these words: "Mr. Joseph Yarpuyah Yarkpawolo asserted that Margibi County stands at a crossroad—claiming that people with questionable characters are attempting to invade it.“Margibi is a county with great people, smart with vision. There are many young people who are equally qualified to lead but you have chosen me to lead the struggle of redemption. I’m glad and humbled!” He noted.“I know what it means for the struggles for quality education. Today there are over 3000 students attending my Yarpuyah School System; I am proud of that. Today two of my scholarship students have returned from Rwanda after obtaining their Masters’ Degrees.”“I know what it means when you cannot afford medical bills for you and your relatives. This is why I am constructing a state-of-the-art hospital in Barclay Farm that will cater to pregnant women free of charge. Babies below five years will be treated free; Our senior citizens will also be treated free of charge. Accident victims will be catered.” "`,
     },
     {
       aspirant: "Ballah G. Zayzay",
@@ -718,6 +777,7 @@ export const senators = {
       party: "Unity Party",
       partyAcronym: "(UP)",
       county: "Margibi",
+      bio: `Mr. Zayzay is a representative of district #2 in margibi county.According to one of his facebook post he is providing jobs for the proplr of margibi through agriculture.`,
     },
   ],
   Maryland: [
@@ -740,6 +800,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Maryland",
+      bio: `Mr.Brown is the current senator for grand gedeh county. `,
     },
     {
       aspirant: "Eric Wlea Giko",
@@ -750,6 +811,8 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Maryland",
+      bio: `According to Frontpage Africa news site,Eric Giko is upbeat about his chances in the upcoming Midterm Senatorial elections. In Pleebo, Maryland county this week, the candidate running on the ticket of the Collaborating Political Parties candidate accepted the endorsement in hopes of staging an upset against his rival opponents, the incumbent Dan Morias and James Biney.As a young man, Giko attended the St. Francis High School in Pleebo City, Maryland County. He graduated from the Zion Academy in Monrovia in 1989 and briefly attended the University of Liberia before the civil war.In 1994, Giko traveled to the United States of America and settled in the state of Rhode Island. There he graduated from the Community College of Rhode Island with a degree in Nursing and obtained a second degree from the University of North Carolina Charlotte with a Bachelor of Arts Degree in Political Science with minor in Public Health.
+      Mr.Giko said: “I am the underdog. But what sets me apart is the fact that I have never worked in government and I have clean record. I have brought relief to the county numerous times. Relief ranging from educational, medical and agriculture. The pressing need now is medical need in the county.”`,
     },
     {
       aspirant: "Jennifer K. Henshaw",
@@ -760,6 +823,7 @@ export const senators = {
       party: "Movement for Progressive Change",
       partyAcronym: "(MPC)",
       county: "Maryland",
+      bio: `Ms. Jennifer Kuwa Henshaw is a Liberian from the Grebo ethnic group of Liberia. Her religious background is Christian. She has a University Education in Political Science with an emphasis on International Relations and Mass Communications from the University of Liberia.Presently, Ms. Henshaw serves as the Executive Coordinator and Founder of the Lesbian and Gay Association of Liberia (LEGAL), a rights-based organization that serves as the voice of the LGBTIQ Community and other vulnerable groups in Liberia. Over the years, her work has improved the advocacy role of LEGAL nationally and internationally, and her work to engage stakeholders has increased their willingness to support policy changes beneficial to the LGBTIQ Community. Outside of LEGAL, Ms. Henshaw serves as the Anglophone Representative for West Africa with the West and Central Africa (WACA) Feminists Movement, part of the Coalition of African Lesbians (CAL). She also serves as Pillar I Head for the Civil Society Human Rights Advocacy Platform of Liberia. Sources: Legal Liberia Website.`,
     },
     {
       aspirant: "H. Dan Morais",
@@ -770,6 +834,7 @@ export const senators = {
       party: "Collaborating Political Parties",
       partyAcronym: "(CPP)",
       county: "Maryland",
+      bio: `Mr.Morias is the current senator of Maryland County.`,
     },
     {
       aspirant: "J. Tiah Nagbe",
@@ -780,6 +845,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Maryland",
+      bio: `Mr Nagbe served as The Executive Director of the National Identification Registry (NIR).He is currently contesting for the senatorial seat in Maryland.`,
     },
     {
       aspirant: "Wollor E. Topor",
@@ -790,6 +856,7 @@ export const senators = {
       party: "Liberian National Union",
       partyAcronym: "(LINU)",
       county: "Maryland",
+      bio: `According to the New Dawn News Site,Dr. Wollor E. Topor has introduced a pre-campaign strategy in Maryland County, ahead of the elections.He said the raffle program was meant for participants to have won several items, experience community developments, political awareness and integrity.Dr. Topor said he was proud because the program benefited some communities, which has been one of its objectives."This is another method of politics I am introducing to Maryland County and I think, it's encouraging because our people are willing to join me in developing this county. As you can see, I am the first politician in the county that has introduced this new method and you saw the turnout; it has shown that people are willing to move Maryland to another level", Dr. Topor added.During raffle draw, several citizens won items, including 32" flat screen television, motorbike, electric iron, fans, bags of rice, phones, cutlass, cooking oil, and packs of cubes, among others.`,
     },
     {
       aspirant: "Henrique B. Wilson",
@@ -822,6 +889,7 @@ export const senators = {
       party: "Liberian National Union",
       partyAcronym: "(LINU)",
       county: "Montserrado",
+      bio: `Mr. Chernor M. Jalloh is business man and politician. He served as a youth chairman at the liberty party under the leadership of Cllr. Charles Walker Brumskin. Mr Jalloh promise to liberate montserrado county from the hands of the current senator that have failed the county `,
     },
     {
       aspirant: "Saah Hardy Joseph",
@@ -832,6 +900,9 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Montserrado",
+      bio: `Senator Saah Joseph is a Liberian politician who is currently serving as the Senator of Montserrado County. He is a member of the ruling Coalition for Democratic Change (CDC) and shares the Montserrado Senate seat with Senator Abraham Darius Dillon of the opposition Liberty Party (LP). enator Saah Joseph won the hearts of Liberians based on his selflessness during the fight of the deadly Ebola Virus Disease (EVD) that badly hit the country in 2014.
+
+      Some of his initiatives include rehabilitation of feeder roads, mobile health services and public transportation.`,
     },
     {
       aspirant: "Idrissa Kaba",
@@ -852,6 +923,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Montserrado",
+      bio: `Mr. Saranfoday Kanneh is a professional manager that work as a general manager for the petroleum plus company. He also worked as a assistant proifessor at the university of liberia.`,
     },
     {
       aspirant: "Victoria Torlo Koiquah",
@@ -862,6 +934,7 @@ export const senators = {
       party: "Collaborating Political Parties",
       partyAcronym: "(CPP)",
       county: "Montserrado",
+      bio: `Mrs.Victoria Torlo Kioquah is a member of the Collaborating political parties. Three things high on her Platform are : Lawmaking, Oversight,adequate representation. One of her reason of contesting in the elections is that: she was born in the slums and have lived a deplorable life therefore, she understands the struggles of the common citizens.  `,
     },
     {
       aspirant: "Wilmot J.M. Paye",
@@ -872,16 +945,18 @@ export const senators = {
       party: "Unity Party",
       partyAcronym: "(UP)",
       county: "Montserrado",
+      bio: `Mr. Wilmot J M Paye is the former secretary general for the unity party. Having spent some time as Chairman, Paye was thrown out of the Chairmanship position in 2020, from where he left and landed within the PLP as its acting chairperson in February 2022 during a euphoric celebration at the party’s headquarters in Congo Town.  According to Mr. Paye, his motivation to contest comes from his visitations to many communities making up Montserrado County.`,
     },
     {
       aspirant: "Ayouba S. Sheriff",
       photo:
-        "https://liberiaelections2023.montserradomedia.com/wp-content/uploads/2023/07/Montserrado_County.svg_.png",
+        "https://hotpepperliberia.com/wp-content/uploads/2023/08/Candidate-Ayouba-S.-Sheriff.jpg",
       number: "CN-000622",
       type: "Party",
       party: "United Independent Democrats Party",
       partyAcronym: "(UID)",
       county: "Montserrado",
+      bio: `Mr. Ayouba S Sheriff is an independent candidate contesting for the senatorial seat in montserrado. Two important issues on his platform are: Senatiton and Agriculture. This is an excrept from one of his inetrviews :  “If I’m to win the senatorial seat of Montserrado County two of my main concentrations would be on sanitation and agriculture, because our country’s capital city, Monrovia, is now counted among the dirtiest cities in West Africa—all because those of our people that are in power or have the financial power don’t know what step to take to carry out sanitation for the common growth of our society. But let me make it clear to my fellow Liberians that sanitation is money-making business, and if I’m to win the senatorial seat of Montserrado County I will surely help to reposition Monrovia among the most clean cities of West Africa,” Sheriff explained. `,
     },
   ],
   Nimba: [
@@ -894,6 +969,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Nimba",
+      bio: `Mr Roland Dou is a member of the ruling party coalition for democratic change. According to the front page african news site, In a campaign massage to the people of nimba, the aspiraing senator pleaded with the citizens of nimba to vote him as senator,because he fought to liberate and protect the people of nimba for 14 years. therefore he deserves to be rewarded with the senatorial position.`,
     },
     {
       aspirant: "James D. Hallowanger",
@@ -904,6 +980,9 @@ export const senators = {
       party: "Liberian’s People’s Party",
       partyAcronym: "(LPP)",
       county: "Nimba",
+      bio: `Mr. Hallowanger is a native of Nimba County, particularly from Tappita Lower Nimba where he grew and attended School in the early 70’s. He is a member of the Liberian people party, he is a Former Police Commandant of the liberia national police.Peace and unity is top on his political platform. According to Cable Media-Liberia : Mr. Hallowanger has a very huge support base in the lower Nimba belt because of his mother's ties.
+      Political Pundits say, Mr. Hallowanger will secure good votes in the lower Nimba belt against Senator Prince Johnson who will be seeking third terms.
+      “J.Hallow" as he is popularly known is noted for taking the most difficult political decision or path, Cable Media-liberia reliably learnt that, Mr. Hallowanger Joined the Unity party chairmanship election  when he was barred from entering the convention hall in Ganta Nimba County , after which he and President  Ellen Johnson Sirleaf felt out. `,
     },
     {
       aspirant: "Prince Yormie Johnson",
@@ -914,6 +993,7 @@ export const senators = {
       party: "Movement for Democracy and Reconstruction",
       partyAcronym: "(MDR)",
       county: "Nimba",
+      bio: `Prince Yormie Johnson (born 6 July 1952) is a Liberian politician and one of the current Senators from Nimba County. A former rebel leader, Johnson played a prominent role in the First Liberian Civil War. Serving as leader of the Independent National Patriotic Front of Liberia, he captured, tortured and executed President Samuel Doe, who had himself overthrown and murdered the previous president William R. Tolbert Jr.`,
     },
     {
       aspirant: "Lawrenso Paye Korquoi",
@@ -924,6 +1004,7 @@ export const senators = {
       party: "All Liberia Coalition Party",
       partyAcronym: "(ALCOP)",
       county: "Nimba",
+      bio: `Mr. LawrencePayeKorquoi, is The Liberia International Christian College former Business Manager.Acording to the inquirer news paper ,Korquoi boasted that if elected as senator, he will reintroduce farm-to-market road initiatives, provide loans to marketers, scholarships to needy students, job opportunities and will lobby to have oversight responsibility over national issues pertaining to the county.`,
     },
     {
       aspirant: "Armstrong Gobac Selekpoh",
@@ -934,6 +1015,9 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Nimba",
+      bio: `Mr. Selekpoh served as the executive director for Nimba Education Guide. according to afro news site, Armstrong Gobac Selekpo said he is optimistic about defeating Nimba County’s political godfather’.
+
+      Armstrong who contested in Nimba County Electoral District #3 in 2017, but conceded defeat noted that based on his experience during the 2017 Elections and the level of work he has done with citizens, he is sure of nothing less than victory.`,
     },
     {
       aspirant: "Wuo Garbie Sokpah",
@@ -944,6 +1028,7 @@ export const senators = {
       party: "Vision for Liberia Transformation",
       partyAcronym: "(VOLT)",
       county: "Nimba",
+      bio: ``,
     },
     {
       aspirant: "Nya D. Twayen, Jr",
@@ -954,6 +1039,9 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Nimba",
+      bio: `Mr. Twayen is the founder and president of the Nya D. Twayen Foundation, a fast growing charity organization that is in the vanguard of undertaking several humanitarian initiatives across Nimba County, especially in the health and education sectors. According to the front page news site, these were the words of Mr.Twayan during his acceptance speech : “I, Nya D. Twayen, Jr. say to the great people of Nimba through this historic town of Buutuo that I wholeheartedly accept your petition to run as Senator,” he declared. “If I am elected as Senator of Nimba, the first and foremost thing that I will focus on will be the unity of the county. Nimba is divided and under my leadership as Senator, there will be no Gio Nimba, there will be no Mano Nimba and no tribal Nimba. There will only be one big and united Nimba County.”
+
+      `,
     },
   ],
   RiverGee: [
