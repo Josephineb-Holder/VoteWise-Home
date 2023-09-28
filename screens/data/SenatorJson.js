@@ -1054,6 +1054,7 @@ export const senators = {
       party: "Democratic National Allegiance",
       partyAcronym: "(DNA)",
       county: "RiverGee",
+      bio: `Honorable Noring is the founder/president and CEO of the Chelle Noring -River Gee County Community Development Services.  Honorable Noring lives both in Liberia and the United States.   Over the past two decades, Honorable has committed himself and his resources to help improve the living standard of his people in River Gee County, Republic of Liberia from income he gained from his employment in the United States.`,
     },
     {
       aspirant: "FRANCIS SAIDY DOPOH II",
@@ -1064,6 +1065,7 @@ export const senators = {
       party: "Democratic National Allegiance",
       partyAcronym: "(IND)",
       county: "RiverGee",
+      bio: `Hon FRANCIS SAIDY DOPOH II is the current senator for river gee county.According to a facebook post form his official page, Mr. Dopoh said education is high on his agenda.He is highly avocating for teachers from his County to get on the Government payroll through the Ministry of Education payroll.He is also paying 150 students Financial Aid at Tubman University currently, but hi farsightedness in sponsoring the act to create a Vocational and Technical Training Institute for his people has shown how moved and firmed he has been in ensuring in his people get quality education as other counties.  `,
     },
     {
       aspirant: "Commany B.W. Pah, Sr",
@@ -1074,6 +1076,7 @@ export const senators = {
       party: "Liberia Rebuilding Party",
       partyAcronym: "(REBUILDERS)",
       county: "RiverGee",
+      bio: `Mr Pah is a candidate int he river gee senatorial race.`,
     },
     {
       aspirant: "Gbaye K. Synyenlentu",
@@ -1084,6 +1087,7 @@ export const senators = {
       party: "Liberian’s People’s Party",
       partyAcronym: "(LPP)",
       county: "RiverGee",
+      bio: `Mr. Gbaye K. Synyenlentu is a candidate int he river gee senatorial race.`,
     },
     {
       aspirant: "Conmany B. Wesseh",
@@ -1094,6 +1098,9 @@ export const senators = {
       party: "Unity Party",
       partyAcronym: "(UP)",
       county: "RiverGee",
+      bio: `Conmany B. Wesseh is an Liberian politician and former activist.
+
+      Conmany Wesseh studied at the University of Liberia, and was a member of the Movement for Justice in Africa (MOJA) during the 1979 Rice Riots, in which MOJA played a key role.[1] During the Liberian Civil War, Wesseh worked with Amos Sawyer as executive director and co-founder of the Center for Democratic Empowerment.[2] After the war, he joined Ellen Johnson Sirleaf's Unity Party. Sirleaf appointed him to several positions within her government, including Ambassador to the United Nations. He ran for the Liberian Senate in 2005, 2009, and 2011, losing each time.[3][4] However, he won his 2014 campaign for senate with 26.1% of the vote.[5] His home county of River Gee's Legislative Caucus indefinitely suspended Wesseh's membership in the caucus in 2018. Although Wesseh is indefinitely suspended from the caucus, he has retained his position as senator.[6] Sources: wikipidia`,
     },
     {
       aspirant: "CHARLES K BARDYL",
@@ -1104,6 +1111,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "RiverGee",
+      bio: `Mr. Charles K. Bardyl,is a former Board Member of the National Port Authority (NPA). he is constesting in for the senatorial position in river gee county. `,
     },
     {
       aspirant: "Francis Saywon Younge",
@@ -1114,6 +1122,14 @@ export const senators = {
       party: "People’s Unification Party",
       partyAcronym: "(PUP)",
       county: "RiverGee",
+      bio: `Mr.Younge is a sitting senator of riverb gee county, according to a post on his official facebook page, this is his platform for development and progress in river gee county : Our track record of accomplishments speak volumes about our ability to effect positive change in our County and Liberia by extension.
+      > TOTAL RECONCILIATION
+      > EDUCATIONAL MODIFICATION 
+      > HEALTH & SANITATION 
+      > AGRICULTURE 
+      > YOUTH & WOMEN EMPOWERMENT 
+      > MORE FEEDER ROADS CONSTRUCTION 
+      > MAINTAINING OUR CULTURAL VALUES BETWEEN OLD GBEAPO DISTRICT AND OLD WEBBO DISTRICT.`,
     },
   ],
   RiverCess: [
@@ -1126,6 +1142,7 @@ export const senators = {
       party: "Liberian’s People’s Party",
       partyAcronym: "(LPP)",
       county: "RiverCess",
+      bio: ` Hon. J. Jonathan Banney, is a current Senator for Rivercess County,`,
     },
     {
       aspirant: "Francis S. Paye",
@@ -1136,6 +1153,7 @@ export const senators = {
       party: "National Democratic Coalition",
       partyAcronym: "(NDC)",
       county: "RiverCess",
+      bio: `Mr.Francis S. Paye is a current senator of Rivercess county.`,
     },
     {
       aspirant: "Gabriel B. Smith",
@@ -1146,6 +1164,7 @@ export const senators = {
       party: "Collaborating Political Parties",
       partyAcronym: "(CPP)",
       county: "RiverCess",
+      bio: `Mr. Smith is s former representative of Grand Bassa county. According to front page africa, Former Grand Bassa County Representative Gabriel B. Smith says the lack of a “determine will” to combat against the embezzling or misapplication of public monies in Liberia by some officials makes corruption to appear as an irrelevant crime.He stated that prevalent reports of corruption make Liberia to appear like there are no laws on the book to prosecute cases of corruption in the society. `,
     },
     {
       aspirant: "Emmanuel Sear Toe",
@@ -1156,6 +1175,7 @@ export const senators = {
       party: "New Liberia Party",
       partyAcronym: "(NLP)",
       county: "RiverCess",
+      bio: `Mr Toe is a candidate in the Rivercess senatorial race. `,
     },
     {
       aspirant: "Bill Teah Twehway",
@@ -1166,6 +1186,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "RiverCess",
+      bio: `Mr Bill Teah Twehway is the former managing director for the Liberia national port authority.He is also a form montserrado county representative.`,
     },
   ],
   Sinoe: [
@@ -1178,6 +1199,7 @@ export const senators = {
       party: "Coalition for Democratic Change",
       partyAcronym: "(CDC)",
       county: "Sinoe",
+      bio: `According to frontpage africa, Hon. Crayton O. Duncan is a professional Politician, a Teacher and a season administrator. He has an associate Degree in Political Science which he obtained from the North Hennepin Community College, Brooklyn Park Minnesota, U.S.A, a Bachelor of Arts Degree in Political Science from the University of Minnesota, U.S.A. and Master of Science Degree in Political Science from the Strayer University in the USA. With the knowledge and experience of Hon. Duncan in International Relations, pair with his Co-Chair Hon. Ivans Jones and other committee members, Liberians can be assured of a transform foreign sector that will boast Liberia’s diplomatic relations and economy.`,
     },
     {
       aspirant: "J. Milton Teahjay",
@@ -1188,6 +1210,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Sinoe",
+      bio: `According to NewDawn news site, Sinoe County Senator J. Milton Teahjay says the independence of the Legislature that Liberia's former Interim President the late Dr. Amos Claudius Sawyer envisaged long ago has been eroded because the House of Representatives and the Liberian Senate have become a place of twisting arms to the Executive.`,
     },
     {
       aspirant: "Matthew Gee Zarzar",
@@ -1198,6 +1221,7 @@ export const senators = {
       party: "Independent Candidate",
       partyAcronym: "(IDD)",
       county: "Sinoe",
+      bio: `Hon Zarzar is a current representative in sinoe county.He has been instrumental in the education and development of his district since he took power. He is currently contesting for the senatorial position in sinoe county.`,
     },
   ],
 };
